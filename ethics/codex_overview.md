@@ -23,6 +23,7 @@ The Codex ensures that:
 It is a living framework, evolving with human oversight.
 
 ## GR
+
 Το Culture Key Codex είναι ο ηθικός πυρήνας του οικοσυστήματος.
 
 Στόχος του είναι να διασφαλίζει ότι κάθε αλληλεπίδραση με ΤΝ είναι:
