@@ -25,7 +25,7 @@ is stored securely in private repositories.
 
 ---
 
-# 🇬🇷 Τι είναι το Culture Key;
+# 🇬🇷 Τι είναι το Culture Key; 
 
 Ένα οικοσύστημα τεχνητής νοημοσύνης που βάζει τον άνθρωπο στο κέντρο.
 
