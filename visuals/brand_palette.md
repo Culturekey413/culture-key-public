@@ -1,3 +1,13 @@
-# Brand Palette
+# 🎨 Culture Key — Brand Palette
 
-(placeholder)
+The Culture Key palette blends clarity, intuition and emotional softness.
+
+| Color Name | Hex | Description |
+|------------|------|-------------|
+| Lychnia Blue | `#3E7CFF` | Clarity, honesty, expression |
+| Deep Indigo | `#3A2E7E` | Insight, intuition, depth |
+| Empathy Green | `#53C18D` | Connection, balance, human focus |
+| Soft Pink Cloud | `#F3A7C9` | Emotional gentleness, creativity |
+| Clear White | `#F7F7F7` | Neutrality, consent, openness |
+
+These colors form the foundation of all public-facing Culture Key visuals.
