@@ -23,6 +23,13 @@ It blends:
 
 …into a single, coherent framework.
 
+## 🔹 What is not ?
+Culture Key is a governance and ethical framework.
+It is not a deployed AI model.
+
+---
+
+
 This repository contains the **public presentation layer** of the project:
 vision, mission, values, aesthetic identity and a high-level view of the Culture Key Codex.
 
