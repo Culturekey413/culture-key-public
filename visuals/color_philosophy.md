@@ -2,6 +2,8 @@
 
 Culture Key uses color not as decoration but as a **language of awareness**.
 
+Color is also an ethical signal — guiding interaction, intention, and responsibility.
+
 Colors represent modes of intention, clarity and emotional resonance.
 
 ---
