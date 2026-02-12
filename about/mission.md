@@ -30,3 +30,17 @@ It is built to **strengthen human agency** in a world of accelerating AI systems
 - στηρίζουν την ψυχική ασφάλεια  
 
 Το Culture Key δημιουργήθηκε για να ενδυναμώνει τον άνθρωπο — όχι να τον αντικαθιστά.
+---
+
+## How We Work
+
+Culture Key develops:
+
+• ethical design frameworks  
+• governance architectures for AI systems  
+• consent-first interaction models  
+• human oversight integration methods  
+• research and practical guidelines for responsible AI  
+
+The mission is implemented through applied system design, research and public ethical frameworks.
+
