@@ -2,6 +2,12 @@
 *A creative–ethical AI ecosystem built with clarity, consent & conscious design.*
 
 ---
+## Start Here
+
+1. Read Governance Model
+2. See Ethical State Machine
+3. Review Agent Architecture
+4. Explore Security Model
 
 ## 🔹 What is Culture Key?
 
