@@ -3,11 +3,10 @@
 
 ---
 ## Start Here
-
-1. Read Governance Model
-2. See Ethical State Machine
-3. Review Agent Architecture
-4. Explore Security Model
+1. Read Governance Model → /ethics/human_governance_first.md
+2. See Ethical State Machine→ /ethics/ethical_state_machine.md
+3. Review Agent Architecture →/architecture/agents_role.md
+4. Explore Security Model →/security/security_model.md
 
 ## 🔹 What is Culture Key?
 
@@ -23,7 +22,7 @@ It blends:
 
 …into a single, coherent framework.
 
-## 🔹 What is not ?
+## 🔹 What Culture Key is NOT
 Culture Key is a governance and ethical framework.
 It is not a deployed AI model.
 
