@@ -115,10 +115,7 @@ These colors represent modes of awareness rather than decoration.
 
 This public repo is designed as an introduction.
 
-For research partnership, engineering collaboration or access to 
-private infrastructure, please contact:
-
-📩 **culturekeylychnia@gmail.com**
+  [Learn how Culture Key helps organizations](./about/collaboration.md)
 
 ---
 
