@@ -18,6 +18,8 @@ HGL protects the ecosystem from:
 
 It is the reason Culture Key remains aligned with human values.
 
+See Human Governance Layer for implementation details.
+
 # 🛡 Πρωτοκαθεδρία Ανθρώπινης Εποπτειας
 ---
 
