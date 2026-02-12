@@ -11,7 +11,7 @@ It includes:
 • human governance → human oversight
 • ethical state machine → decision logic
 
-## Architecture
+# Architecture
 
 - Human Governance Layer
 - Ethical State Machine
@@ -20,6 +20,10 @@ It includes:
 - Versioning Policy
 - Onboarding / Offboarding
 - Failure Modes
+
+   ## Decision Logs
+
+See ethical decision records in /decision_logs
 
 Culture Key treats ethics as infrastructure — not an afterthought.
 
