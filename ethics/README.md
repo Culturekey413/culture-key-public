@@ -12,3 +12,6 @@ It includes:
 • ethical state machine → decision logic
 
 Culture Key treats ethics as infrastructure — not an afterthought.
+
+Version: v1 (Public Architecture Layer)
+Status: Active
