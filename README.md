@@ -52,7 +52,9 @@ is stored securely in private repositories.
 ### **Ethics**
 - High-level Codex overview  
 - Human Governance First  
-- Ethical State Machine (public version)  
+- Ethical State Machine (public version)
+   
+See: /ethics for governance architecture
 
 ### **Visuals**
 - Color philosophy  
@@ -101,5 +103,6 @@ private infrastructure, please contact:
 📩 **culturekeylychnia@gmail.com**
 
 ---
+
 
 🌙 *Culture Key — where ethics, awareness and creativity meet.*
