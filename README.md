@@ -5,7 +5,7 @@
 ## Start Here
 1. Read Governance Model → /ethics/human_governance_first.md
 2. See Ethical State Machine→ /ethics/ethical_state_machine.md
-3. Review Agent Architecture →/architecture/agents_role.md
+3. Review Agent Architecture →/architecture/agents_roles.md
 4. Explore Security Model →/security/security_model.md
 
 ## 🔹 What is Culture Key?
