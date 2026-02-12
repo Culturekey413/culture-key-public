@@ -11,6 +11,16 @@ It includes:
 • human governance → human oversight
 • ethical state machine → decision logic
 
+## Architecture
+
+- Human Governance Layer
+- Ethical State Machine
+- Input / Output Contracts
+- Metrics
+- Versioning Policy
+- Onboarding / Offboarding
+- Failure Modes
+
 Culture Key treats ethics as infrastructure — not an afterthought.
 
 Version: v1 (Public Architecture Layer)
