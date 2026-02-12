@@ -2,6 +2,8 @@
 *A creative–ethical AI ecosystem built with clarity, consent & conscious design.*
 
 ---
+Begin here to understand how Culture Key works:
+
 ## Start Here
 
 1. 🛡️ [Read Governance Model](./ethics/human_governance_first.md)
