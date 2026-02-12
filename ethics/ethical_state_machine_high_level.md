@@ -16,6 +16,8 @@ remain private inside the Culture Key OS.
 The purpose of this public diagram is clarity:
 to show that the ecosystem operates with structure and predictable logic.
 
+See State Machine Rules for transition logic.
+
 # GR ⚙️ Ethical State Machine — High-Level View
 
 # Η Ethical State Machine είναι ο μηχανισμός που διασφαλίζει ότι η 
