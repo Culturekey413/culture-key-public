@@ -71,18 +71,6 @@ It is most useful when teams ask:
 
 ---
 
-## Core design principles
-
-Culture Key systems are built to:
-
-- operate with explicit human governance  
-- preserve user autonomy and consent  
-- surface risk before failure  
-- remain inspectable and accountable  
-- support creative and high-agency use cases safely  
-
----
-
 ## What this public repo contains
 
 This repository provides **structural and conceptual material only**.
@@ -90,13 +78,24 @@ This repository provides **structural and conceptual material only**.
 It includes:
 
 - governance architecture  
-- ethical state logic  
+- ethical state model (high-level)  
 - risk framing  
 - system design patterns  
 
-It **does not** expose sensitive implementation details.
+It **does not** expose sensitive implementation or operational details.
 
 ---
+
+## Core design principles
+
+Culture Key systems are built to:
+
+- operate with explicit human governance  
+- preserve user autonomy and consent  
+- surface risk before failure  
+- remain inspectable, accountable, and traceable by design  
+- support creative and high-agency use cases safely
+  
 
 ## Intended audience
 
