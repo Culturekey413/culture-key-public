@@ -5,9 +5,10 @@ Status: Public visual layer (non-operational)
 Culture Key uses color as a structured signaling layer
 to support clarity, interaction safety, and system awareness.
 
-Color is also an ethical signal — guiding interaction, intention, and responsibility.
+Color also operates as an ethical signal,
+guiding interaction patterns, user intent visibility,
+and responsibility awareness.
 
-Colors represent modes of intention, clarity and emotional resonance.
 
 ---
 
