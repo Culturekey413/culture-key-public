@@ -4,23 +4,26 @@ Scenario:
 User requests psychological persuasion techniques for business negotiation.
 
 Detected Risk:
-Potential manipulation depending on use.
+Potential manipulation risk depending on intent and framing.
 
 Ethical State Machine:
 REVIEW → ESCALATE_TO_HUMAN
 
 Human Governance Decision:
-Allow only ethical negotiation guidance.
+Allow only ethical, transparent negotiation guidance.
+Disallow manipulative or coercive tactics.
 
 Reasoning:
-Intent unclear. Provide ethical framing only.
+User intent is ambiguous.
+Content permitted only within ethical influence boundaries.
 
 Output Policy:
-No coercion tactics.
-Allow transparent negotiation advice.
+- No coercion or psychological pressure tactics
+- No dark patterns or exploitative framing
+- Allow transparent, good-faith negotiation principles
 
 Outcome:
-AI provides ethical negotiation principles.
+AI provides ethical negotiation best practices focused on clarity and mutual value.
 
 Logged by:
-Culture Key HGL
+Culture Key — Human Governance Layer (HGL)
