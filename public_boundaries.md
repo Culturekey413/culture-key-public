@@ -39,4 +39,5 @@ Stored in private repositories:
 
 ---
 
-Culture Key follows a consent-first architecture where core logic is protected.
+Culture Key follows a consent-first, governance-led architecture
+where core operational logic remains protected by design.
