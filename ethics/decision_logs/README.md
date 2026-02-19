@@ -2,6 +2,8 @@
 
 This folder records ethical decisions made under the Culture Key governance framework.
 
+These logs illustrate how governance reasoning is documented and reviewed prior to scale.
+
 Purpose:
 - transparency
 - accountability
