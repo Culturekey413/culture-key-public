@@ -15,10 +15,12 @@ This framework helps organizations identify structural risk **before** AI system
 - human oversight coverage  
 
 > Governance capacity becomes the real bottleneck at scale.  
-> Culture Key addresses it early.
+> Culture Key surfaces and addresses this risk early.
 
-# 🌒 Culture Key — Public Overview  
+# 🌑 Culture Key — Public Overview
+
 *A human-first AI governance layer for systems approaching scale.*
+Designed for teams building AI systems that must scale safely.
 
 ---
 
