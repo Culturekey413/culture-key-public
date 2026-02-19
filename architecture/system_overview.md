@@ -1,34 +1,76 @@
 # Culture Key — System Overview (Public)
 
-Culture Key is a human-first governance and ethical AI framework.
-This public repository contains the presentation layer — not internal implementation.
+Culture Key is a human-first AI governance framework designed to help organizations structure, supervise, and scale AI systems responsibly.
 
-## Core layers
+This public repository contains the presentation layer only — not internal implementation.
 
-1. **Human Governance Layer (HGL)**
-   - No rule or behavior change without human approval.
+---
 
-2. **Codex Root (Governance Core)**
-   - Holds the ethical foundation and rule integrity.
+## Core Layers
 
-3. **Aequitas (Ethical Firewall)**
-   - Filters outputs for consent, safety, and integrity.
+### 1. Human Governance Layer (HGL)
+Human oversight authority.
+- No rule or behavioral change occurs without human approval.
+- Defines escalation and accountability boundaries.
 
-4. **Lychnia Bridge (Cognitive Translation Layer)**
-   - Preserves meaning and alignment between intent and expression.
+### 2. Codex Root (Governance Core)
+Policy source of truth.
+- Maintains ethical foundations
+- Preserves rule integrity
+- Anchors system-wide governance logic
 
-5. **Magna (Orchestration Layer)**
-   - Coordinates system behavior and restores alignment when needed.
+### 3. Aequitas (Ethical Firewall)
+Runtime ethical guard.
+- Filters outputs for consent, safety, and integrity
+- Flags boundary violations
+- Supports safe interaction patterns
 
-6. **PosterKit (Expression Interface)**
-   - Produces creative outputs and presentation artifacts.
+### 4. Lychnia Bridge (Cognitive Translation Layer)
+Meaning preservation layer.
+- Aligns intent with expression
+- Reduces semantic drift
+- Supports clarity in AI-human interaction
 
-## What this is (and is not)
+### 5. Magna (Orchestration Layer)
+System coordination layer.
+- Monitors cross-component alignment
+- Triggers recovery when drift is detected
+- Maintains operational coherence
 
-- **Is:** governance architecture, ethical constraints, transparency principles.
-- **Is not:** a deployed AI model, codebase, or internal operational system.
+### 6. PosterKit (Expression Interface)
+Controlled output layer.
+- Generates structured artifacts
+- Handles presentation-safe outputs
+- Applies expression constraints
 
-## Public vs Private
+---
 
-- **Public:** concepts, policies, high-level architecture, diagrams.
-- **Private:** implementation details, internal flows, modules, diagnostics.
+## What This Is (and Is Not)
+
+**This IS:**
+- governance architecture  
+- ethical control framework  
+- human oversight model  
+- transparency-first design  
+
+**This is NOT:**
+- a deployed AI model  
+- a training pipeline  
+- an autonomous decision system  
+- internal production infrastructure  
+
+---
+
+## Public vs Private Scope
+
+**Public repository includes:**
+- high-level architecture  
+- governance structure  
+- ethical principles  
+- conceptual diagrams  
+
+**Private environment contains:**
+- implementation details  
+- internal system flows  
+- diagnostic tooling  
+- operational modules
