@@ -78,3 +78,21 @@ Culture Key enforces:
 - verifiable decision paths  
 - no silent autonomous authority  
 - governance before scale
+
+  
+  ## Responsibility Matrix (RACI)
+
+| Function | Responsible | Accountable | Consulted | Informed |
+|----------|------------|------------|-----------|----------|
+| Policy integrity | Codex Root | Human Governance Layer | Ethics reviewers | Org stakeholders |
+| Runtime ethics enforcement | Aequitas | Human Governance Layer | Magna | Product teams |
+| System coordination | Magna | Human Governance Layer | Aequitas | Ops teams |
+| Output safety | PosterKit | Human Governance Layer | Lychnia | End users |
+| High-risk decisions | Human Governance Layer | Human Governance Layer | Relevant experts | Audit logs |
+
+**RACI key:**
+
+- **R — Responsible:** executes  
+- **A — Accountable:** final authority  
+- **C — Consulted:** provides input  
+- **I — Informed:** notified
