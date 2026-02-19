@@ -33,7 +33,9 @@ This layer includes:
 
 ## 🧾 Decision Logs
 
-Ethical decision records are maintained in:ethics/decision_logs
+Ethical decision records are maintained in: [decision logs](./decision_logs)
+
+
 These logs provide traceability for high-risk or contested cases.
 
 ---
