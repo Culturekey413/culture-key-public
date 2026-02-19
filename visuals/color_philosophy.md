@@ -1,5 +1,7 @@
 # 🎨 Culture Key — Color Philosophy
 
+Status: Public visual layer (non-operational)
+
 Culture Key uses color as a structured signaling layer
 to support clarity, interaction safety, and system awareness.
 
@@ -34,4 +36,5 @@ Colors act as a visual interface into the ecosystem:
 - promote clarity and emotional safety  
 - enhance creative expression  
 
-They form the **baseline visual philosophy** of Culture Key.
+These colors define the baseline visual signaling system
+for public-facing Culture Key materials.
