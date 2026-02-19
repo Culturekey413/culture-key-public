@@ -1,6 +1,7 @@
 # 🎨 Culture Key — Color Philosophy
 
-Culture Key uses color not as decoration but as a **language of awareness**.
+Culture Key uses color as a structured signaling layer
+to support clarity, interaction safety, and system awareness.
 
 Color is also an ethical signal — guiding interaction, intention, and responsibility.
 
