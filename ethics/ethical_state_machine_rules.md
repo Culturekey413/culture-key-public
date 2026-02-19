@@ -1,30 +1,107 @@
-# Ethical State Machine Rules
+# Ethical State Machine — Rules (Public)
 
-The Ethical State Machine defines how the system evaluates situations and responds.
+The Ethical State Machine defines the high-level decision logic used to evaluate
+risk signals and determine appropriate system behavior.
+
+It ensures responses remain predictable, auditable, and aligned with human oversight.
+
+---
 
 ## Purpose
-Provide predictable and consistent ethical behavior.
 
-## States
+Provide consistent and structured ethical behavior across AI interactions.
+
+The model is designed to:
+
+- reduce ambiguity in edge cases  
+- enforce safety boundaries  
+- support human-in-the-loop governance  
+- maintain predictable system responses  
+
+---
+
+## Public States
 
 ### SAFE
-Normal operation. No ethical concerns detected.
+Normal operation.
+
+**Condition:**
+- No material ethical risk detected.
+
+**System behavior:**
+- Output proceeds normally.
+- Standard monitoring remains active.
+
+---
 
 ### REVIEW
-Potential issue detected. Requires human review.
+Potential concern detected.
+
+**Condition:**
+- Risk signals present but not conclusive.
+- Intent or context unclear.
+
+**System behavior:**
+- Additional scrutiny applied.
+- May trigger soft safeguards.
+- Eligible for human review.
+
+---
 
 ### BLOCKED
-Clear violation. Output is prevented.
+Confirmed ethical violation.
+
+**Condition:**
+- High-confidence policy breach.
+- Manipulation, deception, or safety violation detected.
+
+**System behavior:**
+- Output is prevented.
+- Safe alternative may be offered.
+- Event is logged.
+
+---
 
 ### ESCALATE_TO_HUMAN
-Ethical dilemma requiring human judgment.
+Human judgment required.
 
-## Transition Logic (Initial)
+**Condition:**
+- High-impact ambiguity.
+- Value conflict or sensitive edge case.
 
-- SAFE → REVIEW when risk signals appear
-- REVIEW → BLOCKED when violation confirmed
-- REVIEW → SAFE when cleared
-- BLOCKED → ESCALATE_TO_HUMAN in ambiguous cases
+**System behavior:**
+- Decision deferred to human governance.
+- No autonomous resolution.
+- Escalation path recorded.
 
-## Goal
-Consistency, predictability, and controlled ethical decisions.
+---
+
+## Transition Logic (High-Level)
+
+The system follows structured transitions:
+
+- **SAFE → REVIEW**  
+  Triggered when risk signals exceed baseline thresholds.
+
+- **REVIEW → BLOCKED**  
+  Triggered when violation confidence becomes high.
+
+- **REVIEW → SAFE**  
+  Triggered when concern is cleared.
+
+- **BLOCKED → ESCALATE_TO_HUMAN**  
+  Triggered in rare ambiguous or high-impact cases.
+
+---
+
+## Design Goals
+
+The Ethical State Machine is designed to provide:
+
+- behavioral predictability  
+- bounded autonomy  
+- human oversight guarantees  
+- audit-friendly decision paths  
+
+This public model describes the external logic only.  
+Internal scoring, thresholds, and enforcement mechanisms remain private.
