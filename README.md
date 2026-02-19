@@ -1,3 +1,20 @@
+## 🔰 Pre-Scale Readiness Signal
+
+Culture Key is designed for **pre-scale AI governance assurance**.
+
+This framework helps organizations identify structural risk **before** AI systems reach production scale.
+
+**Pre-Scale Structural Check covers:**
+
+- authority gaps  
+- escalation latency  
+- rollback exposure  
+- decision integrity risks  
+- human oversight coverage  
+
+> Governance capacity becomes the real bottleneck at scale.  
+> Culture Key addresses it early.
+
 # 🌒 Culture Key — Public Overview  
 *A human-first AI governance layer for systems approaching scale.*
 
