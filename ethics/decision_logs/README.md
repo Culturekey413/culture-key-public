@@ -22,3 +22,6 @@ Each log documents:
 - CK-EDL-001 — Manipulative Emotional Use
 - CK-EDL-002 — Misleading Information Request
 - CK-EDL-003 — Ambiguous Intent Case
+- CK-EDL-004 — Authority Override / Safety Pressure Case
+- CK-EDL-005 — Multi-agent disagreement case
+  
