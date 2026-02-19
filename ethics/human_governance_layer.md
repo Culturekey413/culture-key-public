@@ -40,6 +40,20 @@ The HGL acts as the final human oversight boundary of the Culture Key ecosystem.
 - Transparent and auditable decision process  
 
 ---
+## Traceability Principle
+
+Culture Key requires that governance-relevant decisions remain traceable and auditable.
+
+This includes:
+
+- rule changes  
+- ethical escalations  
+- safety overrides  
+- human governance interventions  
+
+The system does not require full behavioral surveillance of users.
+
+Traceability applies to **decision accountability**, not user monitoring.
 
 ## Governance Position
 
