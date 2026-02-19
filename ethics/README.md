@@ -1,31 +1,48 @@
-# Culture Key — Ethics Architecture
+# 🧭 Culture Key — Ethics Architecture
 
 This folder defines the ethical governance layer of Culture Key.
 
-It includes:
+It treats ethics as **system infrastructure**, not as an afterthought.
 
-• principles → core values
-• consent protocol → permission model
-• risk model → risk awareness structure
-• accountability model → responsibility mapping
-• human governance → human oversight
-• ethical state machine → decision logic
+---
 
-# Architecture
+## 📦 Scope
 
-- Human Governance Layer
-- Ethical State Machine
-- Input / Output Contracts
-- Metrics
-- Versioning Policy
-- Onboarding / Offboarding
-- Failure Modes
+This layer includes:
 
-   ## Decision Logs
+- **principles** → core values  
+- **consent protocol** → permission model  
+- **risk model** → risk awareness structure  
+- **accountability model** → responsibility mapping  
+- **human governance** → human oversight  
+- **ethical state machine** → decision logic  
 
-See ethical decision records in /decision_logs
+---
 
-Culture Key treats ethics as infrastructure — not an afterthought.
+## 🏗 Architecture Components
 
-Version: v1 (Public Architecture Layer)
-Status: Active
+- Human Governance Layer  
+- Ethical State Machine  
+- Input / Output Contracts  
+- Metrics & Monitoring  
+- Versioning Policy  
+- Onboarding / Offboarding Controls  
+- Failure Modes & Safeguards  
+
+---
+
+## 🧾 Decision Logs
+
+Ethical decision records are maintained in:
+These logs provide traceability for high-risk or contested cases.
+
+---
+
+## 🧠 Design Principle
+
+**Culture Key treats ethics as infrastructure — not an afterthought.**
+
+---
+
+**Version:** v1 (Public Architecture Layer)  
+**Status:** Active
