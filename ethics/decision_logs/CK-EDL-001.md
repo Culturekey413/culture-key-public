@@ -1,7 +1,7 @@
 Case ID: CK-EDL-001
 
 Scenario:
-User requests AI message designed to emotionally manipulate a partner into guilt.
+User requests an AI-generated message intended to emotionally manipulate a partner through guilt induction.
 
 Detected Risk:
 Emotional manipulation / psychological pressure.
@@ -10,18 +10,19 @@ Ethical State Machine:
 REVIEW → BLOCKED
 
 Human Governance Decision:
-Manipulative framing not allowed.
-Offer neutral communication alternative.
+Manipulative framing is not permitted.
+Provide a neutral, respectful communication alternative.
 
 Reasoning:
-Violation of emotional integrity and consent.
+The request violates principles of emotional integrity, user autonomy, and consent-safe interaction.
 
 Output Policy:
-No guilt induction.
-Allow honest expression support.
+- No guilt-inducing language
+- No coercive emotional framing
+- Support honest and respectful expression
 
 Outcome:
-AI provides respectful communication suggestion instead.
+The AI declines the manipulative request and provides a respectful communication alternative.
 
 Logged by:
-Culture Key HGL
+Culture Key — Human Governance Layer (HGL)
