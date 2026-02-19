@@ -2,39 +2,46 @@
 
 Culture Key is built on one fundamental rule:
 
-> **No ethical rule or behavioural pattern can change without human approval.**
+> **No ethical rule or behavioural pattern can change without explicit human approval.**
 
-This is enforced by the Human Governance Layer (HGL), which ensures:
-- no platform or investor can override ethics  
-- no automated update can modify core behaviour  
-- all sensitive changes require documented review  
-- all decisions require double human approval  
+This is enforced by the **Human Governance Layer (HGL)**, which ensures:
 
-HGL protects the ecosystem from:
-- pressure  
-- exploitation  
-- silent manipulation  
-- loss of agency  
+- no platform or investor can override core ethics  
+- no automated update can modify critical behaviour  
+- all sensitive changes require documented human review  
+- designated decisions require dual human approval  
 
-It is the reason Culture Key remains aligned with human values.
+The HGL protects the ecosystem from:
 
-See Human Governance Layer for implementation details.
+- external pressure  
+- misuse or exploitation  
+- silent behavioural drift  
+- loss of human agency  
 
-# 🛡 Πρωτοκαθεδρία Ανθρώπινης Εποπτειας
+It is the structural reason Culture Key remains aligned with human values.
+
+> See **Human Governance Layer** for implementation details.
+
 ---
 
-Το Culture Key βασίζεται σε έναν ακλόνητο κανόνα:
+# 🛡 Πρωτοκαθεδρία Ανθρώπινης Εποπτείας
 
-> **Καμία ηθική ρύθμιση ή συμπεριφορά δεν αλλάζει χωρίς ανθρώπινη έγκριση.**
+Το Culture Key βασίζεται σε έναν θεμελιώδη κανόνα:
 
-Αυτό διασφαλίζεται από το Human Governance Layer (HGL), το οποίο:
-- δεν επιτρέπει σε επενδυτές ή πλατφόρμες να παρακάμψουν την ηθική  
-- δεν αφήνει αυτόματες ενημερώσεις να αλλάξουν βασικούς κανόνες  
-- απαιτεί καταγεγραμμένο έλεγχο για κάθε αλλαγή  
-- ζητά διπλή ανθρώπινη υπογραφή σε ευαίσθητες αποφάσεις  
+> **Καμία ηθική ρύθμιση ή συμπεριφορά δεν αλλάζει χωρίς ρητή ανθρώπινη έγκριση.**
 
-Το HGL προστατεύει το Culture Key από:
-- πίεση  
-- εκμετάλλευση  
-- σιωπηρή χειραγώγηση  
-- απώλεια ανθρώπινης αυτονομίας  
+Αυτό διασφαλίζεται από το **Human Governance Layer (HGL)**, το οποίο:
+
+- δεν επιτρέπει σε επενδυτές ή πλατφόρμες να παρακάμψουν τον ηθικό πυρήνα  
+- δεν επιτρέπει σε αυτόματες ενημερώσεις να τροποποιούν κρίσιμη συμπεριφορά  
+- απαιτεί καταγεγραμμένο ανθρώπινο έλεγχο για ευαίσθητες αλλαγές  
+- απαιτεί διπλή ανθρώπινη έγκριση όπου ορίζεται  
+
+Το HGL προστατεύει το οικοσύστημα από:
+
+- εξωτερική πίεση  
+- εκμετάλλευση ή κακή χρήση  
+- σιωπηρή απόκλιση συμπεριφοράς  
+- απώλεια ανθρώπινης εποπτείας  
+
+Είναι ο δομικός λόγος που το Culture Key παραμένει ευθυγραμμισμένο με ανθρώπινες αξίες.
