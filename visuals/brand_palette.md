@@ -1,6 +1,7 @@
 # 🎨 Culture Key — Brand Palette
 
-The Culture Key palette blends clarity, intuition and emotional softness.
+The Culture Key palette functions as a visual signaling layer
+supporting clarity, safe interaction, and human-centered design.
 
 | Color Name | Hex | Description |
 |------------|------|-------------|
