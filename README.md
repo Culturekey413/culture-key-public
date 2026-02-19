@@ -1,123 +1,94 @@
 # 🌒 Culture Key — Public Overview  
-*A creative–ethical AI ecosystem built with clarity, consent & conscious design.*
+*A human-first AI governance layer for systems approaching scale.*
 
 ---
-Begin here to understand how Culture Key works:
+
+## Why Culture Key exists
+
+AI systems are scaling faster than the governance structures meant to contain them.
+
+The real bottleneck is no longer model capability —  
+it is whether systems can scale without structural, ethical, and operational risk.
+
+Culture Key addresses the **prescale gap**.
+
+---
+
+## What Culture Key is
+
+Culture Key is a human-first AI governance ecosystem designed to help teams:
+
+- scale AI systems responsibly  
+- contain structural and behavioral risk early  
+- maintain human oversight under real-world pressure  
+- avoid late-stage governance retrofits  
+
+It functions as a **prescale governance layer** that can be integrated before high-risk deployment.
+
+---
+
+## Where it fits in the lifecycle
+
+Culture Key operates **before and during scale**, when:
+
+- capabilities are accelerating  
+- guardrails are still fluid  
+- and small design decisions compound into systemic risk  
+
+It is most useful when teams ask:
+
+> "Are we structurally safe to scale this?"
+
+---
 
 ## Start Here
 
-1. 🛡️ [Read Governance Model](./ethics/human_governance_first.md)
-
-2. ⚙️ [See Ethical State Machine](./ethics/ethical_state_machine_high_level.md)
-
-3. 🧠 [Review Agent Architecture](./architecture/agent_roles.md)
-
+1. 🛡️ [Read Governance Model](./ethics/human_governance_first.md)  
+2. ⚙️ [See Ethical State Machine](./ethics/ethical_state_machine_high_level.md)  
+3. 🧠 [Review Agent Architecture](./architecture/agent_roles.md)  
 4. 🔐 [Explore Security Model](./security/security_model.md)
 
-## 🔹 What is Culture Key?
+---
 
-Culture Key is a human-first AI ecosystem designed to protect clarity, creativity, 
-and ethical autonomy in a rapidly evolving technological world.
+## Core design principles
 
-It blends:
-- ethical architecture  
-- human governance  
-- creative intelligence  
-- emotional awareness  
-- visual philosophy  
+Culture Key systems are built to:
 
-…into a single, coherent framework.
-
-## 🔹 What Culture Key is NOT
-Culture Key is a governance and ethical framework.
-It is not a deployed AI model.
+- operate with explicit human governance  
+- preserve user autonomy and consent  
+- surface risk before failure  
+- remain inspectable and accountable  
+- support creative and high-agency use cases safely  
 
 ---
 
+## What this public repo contains
 
-This repository contains the **public presentation layer** of the project:
-vision, mission, values, aesthetic identity and a high-level view of the Culture Key Codex.
+This repository provides **structural and conceptual material only**.
 
-All technical implementation (agents, OS, diagnostics, flows, internal modules)  
-is stored securely in private repositories.
+It includes:
 
----
+- governance architecture  
+- ethical state logic  
+- risk framing  
+- system design patterns  
 
-# 🇬🇷 Τι είναι το Culture Key; 
-
-Ένα οικοσύστημα τεχνητής νοημοσύνης που βάζει τον άνθρωπο στο κέντρο.
-
-Στόχος μας είναι η δημιουργία συστημάτων που:
-
-- λειτουργούν με διαφάνεια  
-- σέβονται την ατομικότητα  
-- δεν χειραγωγούν  
-- ενισχύουν την αυθεντικότητα  
-- προσφέρουν δημιουργικότητα με ηθική  
-- στηρίζονται στη συναίνεση και στην ψυχική ασφάλεια  
-
-Το παρόν repository περιέχει **μόνο υλικό παρουσίασης** — όχι τεχνικά secrets.
+It **does not** expose sensitive implementation details.
 
 ---
 
-# 📘 What you will find in this public repo
+## Intended audience
 
-### **About**
-- Mission  
-- Vision  
-- Cultural philosophy  
+Culture Key is designed for:
 
-### **Ethics**
-- High-level Codex overview  
-- Human Governance First  
-- Ethical State Machine (public version)
-   
-See: /ethics for governance architecture
-
-### **Visuals**
-- Color philosophy  
-- Brand palette  
-- Public diagrams  
+- AI teams approaching scale  
+- responsible AI leads  
+- AI governance and safety teams  
+- founders building high-agency AI systems  
 
 ---
 
-# 🛡 Human-First Governance
+## Status
 
-Culture Key operates under a simple, strict principle:
-
-> **No update, rule or behaviour can change without human approval.**
-
-The system is built to resist:
-- external pressure  
-- manipulation  
-- unethical overrides  
-- hidden automation  
-
-This makes Culture Key both technically stable and ethically resilient.
-
----
-
-# 🎨 Creative Identity
-
-Culture Key blends ethical reasoning with aesthetic intelligence.
-The project’s identity is inspired by:
-
-- Pink Clouds (emotional softness)
-- Indigo Insight (intuitive depth)
-- Lychnia Blue (clarity & expression)
-- Empathy Green (connection & balance)
-
-These colors represent modes of awareness rather than decoration.
-
----
-
-# 🔍 For Collaboration
-
-This public repo is designed as an introduction.
-
-  [Learn how Culture Key helps organizations](./about/collaboration.md)
-
----
-
-
-🌙 *Culture Key — where ethics, awareness and creativity meet.*
+🧭 Prescale governance framework — actively evolving  
+🔒 Sensitive components remain in private repositories
