@@ -1,5 +1,7 @@
 # 🗂 Culture Key — Visual Schemas (Public)
 
+Status: Public orientation layer (non-operational)
+
 This folder contains public-friendly diagrams that describe the high-level structure of Culture Key.
 
 ### Included:
