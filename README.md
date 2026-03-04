@@ -75,6 +75,10 @@ It is most useful when teams ask:
 2. ⚙️ [See Ethical State Machine](./ethics/ethical_state_machine_high_level.md)  
 3. 🧠 [Review Agent Architecture](./architecture/agent_roles.md)  
 4. 🔐 [Explore Security Model](./security/security_model.md)
+5. 📘 [Example Prescale Application]
+(./docs/prescale_example.md)
+
+   
 
 ---
 
