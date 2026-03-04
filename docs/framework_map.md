@@ -71,5 +71,5 @@ so that AI systems can scale **without losing human accountability.**
 ---
 
 **Culture Key**  
-Human-first governance for systems that must scale safely.Culture Key Framework
+Human-first governance for systems that must scale safely.
 
