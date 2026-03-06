@@ -74,3 +74,5 @@ Controlled output layer.
 - internal system flows  
 - diagnostic tooling  
 - operational modules
+
+All outputs are subject to validation and audit logging to maintain governance traceability.
