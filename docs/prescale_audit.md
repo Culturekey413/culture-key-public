@@ -1,6 +1,6 @@
 # 🧭 Culture Key — Pre-Scale Governance Audit
 
-**Identify structural AI risks before they become production failures.**
+**Identify structural AI risks before they become production failures at scale.**
 
 The assessment examines three structural layers:
 decision authority, intervention capability, and operational boundaries,
@@ -15,7 +15,7 @@ Culture Key provides a human-first prescale governance check designed for teams 
 
 A structured prescale review that helps organizations detect governance and safety gaps **before high-risk scale exposure**.
 
-It focuses on structural readiness — not model performance.
+It focuses on governance readiness — not model performance.
 
 
 ---
