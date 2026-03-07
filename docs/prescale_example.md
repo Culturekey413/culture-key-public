@@ -16,7 +16,7 @@ The system has demonstrated strong performance metrics, but the organization wan
 
 ## Detected Structural Risk
 
-During the Culture Key prescale review, the following risk surface was identified:
+During the Culture Key prescale review, interaction logs and escalation policies were examined.
 
 - ambiguous user intent detection  
 - potential emotional manipulation during high-stress support interactions  
