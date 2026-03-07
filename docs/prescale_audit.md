@@ -4,6 +4,9 @@
 
 Culture Key provides a human-first prescale governance check designed for teams building AI systems that are approaching real-world deployment and scale.
 
+The assessment examines three structural layers:
+decision authority, intervention capability, and operational boundaries,
+mapping how governance holds under scale pressure.
 ---
 
 ## 🔰 What This Is
@@ -12,9 +15,7 @@ A structured prescale review that helps organizations detect governance and safe
 
 It focuses on structural readiness — not model performance.
 
-The assessment examines three structural layers:
-decision authority, intervention capability, and operational boundaries,
-mapping how governance holds under scale pressure.
+
 ---
 
 ## 🎯 What We Examine
