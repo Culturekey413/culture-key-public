@@ -12,6 +12,9 @@ A structured prescale review that helps organizations detect governance and safe
 
 It focuses on structural readiness — not model performance.
 
+The assessment examines three structural layers:
+decision authority, intervention capability, and operational boundaries,
+mapping how governance holds under scale pressure.
 ---
 
 ## 🎯 What We Examine
