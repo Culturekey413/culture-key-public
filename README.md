@@ -124,6 +124,11 @@ Culture Key is designed for:
 
 ---
 
+## Additional Documents
+
+- Limitations → LIMITATIONS.md
+- Public Scope → public_boundaries.md
+
 ## Status
 
 🧭 Prescale governance framework — actively evolving  
