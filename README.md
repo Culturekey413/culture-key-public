@@ -2,6 +2,11 @@
 
 [![License: CC BY-NC-ND 4.0](https://img.shields.io/badge/license-CC%20BY--NC--ND%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-nd/4.0/)
 
+> AI systems rarely fail because of the model.  
+> They fail because governance breaks under scale.
+>
+> **Culture Key is designed to detect that failure point early.**
+
 Culture Key is designed for **pre-scale AI governance assurance**.
 
 This framework helps organizations identify structural risk **before** AI systems reach production scale.
@@ -38,7 +43,7 @@ AI systems are scaling faster than the governance structures meant to contain th
 The real bottleneck is no longer model capability —  
 it is whether systems can scale without structural, ethical, and operational risk.
 
-Culture Key addresses the **prescale gap**.
+Culture Key addresses the **pre-scale governance gap**.
 
 ---
 
@@ -131,5 +136,5 @@ Culture Key is designed for:
 
 ## Status
 
-🧭 Prescale governance framework — actively evolving  
+🧭 Prescale governance framework — evolving  
 🔒 Sensitive components remain in private repositories
