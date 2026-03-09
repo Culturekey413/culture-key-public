@@ -46,7 +46,7 @@ Audit Logging
 
 
 
-# Escalation Path
+## Escalation Path
 
 If a rule violation or ambiguity is detected:
 
@@ -55,11 +55,11 @@ If a rule violation or ambiguity is detected:
 3. Human Governance Layer is notified  
 4. Decision is reviewed or overridden  
 
-This ensures that **critical decisions remain human-governed**.
+This ensures that *critical decisions remain human-governed*.
 
 ---
 
-# Governance Objective
+## Governance Objective
 
 The decision flow ensures that:
 
@@ -68,4 +68,4 @@ The decision flow ensures that:
 - system outputs remain traceable  
 - human authority remains intact  
 
-Culture Key prioritizes **governance before automation**.
+Culture Key prioritizes *governance before automation*.
