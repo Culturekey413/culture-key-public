@@ -32,3 +32,6 @@ AI SYSTEM APPROACHING SCALE
                      ▼
 
              SAFE SCALE POSSIBLE
+
+
+Governance capacity becomes the real bottleneck at scale.
