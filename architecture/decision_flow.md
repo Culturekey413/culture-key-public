@@ -41,9 +41,8 @@ Post-Validation Layer
         ▼
 Audit Logging
 (Traceable governance record)
+```
 
- ---
----
 
 ## Escalation Path
 
