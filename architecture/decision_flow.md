@@ -46,7 +46,7 @@ Audit Logging
 
 
 
-## Escalation Path
+# Escalation Path
 
 If a rule violation or ambiguity is detected:
 
@@ -59,7 +59,7 @@ This ensures that **critical decisions remain human-governed**.
 
 ---
 
-## Governance Objective
+# Governance Objective
 
 The decision flow ensures that:
 
