@@ -8,31 +8,39 @@ The goal is to ensure that AI outputs remain aligned with policy, meaning, and h
 
 ## Decision Lifecycle
 
-        User Input / System Trigger │ 
-                 ▼ 
-         Input / Output Contract Check 
-         (Boundary validation) │ 
-                 ▼ 
-           Lychnia Bridge 
-      (Intent & meaning alignment)│
-                 ▼               
-               Aequitas 
-        (Ethical firewall check) │
-                 ▼
-               Magna 
-(System orchestration & coordination) │ 
-                 ▼
-             PosterKit 
-(Controlled expression / artifact generation) │ 
-                 ▼  
-           Output / Response │ 
-                 ▼ 
-        Post-Validation Layer 
-  (Integrity & safety confirmation) │ 
-                 ▼ 
-          Audit Logging 
+```text
+User Input / System Trigger
+        │
+        ▼
+Input / Output Contract Check
+(Boundary validation)
+        │
+        ▼
+Lychnia Bridge
+(Intent & meaning alignment)
+        │
+        ▼
+Aequitas
+(Ethical firewall check)
+        │
+        ▼
+Magna
+(System orchestration & coordination)
+        │
+        ▼
+PosterKit
+(Controlled expression / artifact generation)
+        │
+        ▼
+Output / Response
+        │
+        ▼
+Post-Validation Layer
+(Integrity & safety confirmation)
+        │
+        ▼
+Audit Logging
 (Traceable governance record)
-
 
  ---
 
