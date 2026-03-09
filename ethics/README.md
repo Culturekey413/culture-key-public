@@ -1,5 +1,11 @@
 # 🧭 Culture Key — Ethics Architecture
 
+Culture Key is a governance framework designed to help AI systems
+approach scale safely.
+
+The **Ethics Architecture** defines the human-centered governance layer
+that constrains system behavior and ensures accountability.
+
 This folder defines the ethical governance layer of Culture Key.
 
 It treats ethics as **system infrastructure**, not as an afterthought.
@@ -8,19 +14,22 @@ It treats ethics as **system infrastructure**, not as an afterthought.
 
 ## 📦 Scope
 
-This layer includes:
+This layer defines the ethical infrastructure of the Culture Key framework.
 
-- **principles** → core values  
-- **consent protocol** → permission model  
-- **risk model** → risk awareness structure  
-- **accountability model** → responsibility mapping  
-- **human governance** → human oversight  
-- **ethical state machine** → decision logic  
+It includes:
+
+- **Principles** — foundational ethical commitments
+- **Consent Protocol** — permission and user autonomy safeguards
+- **Risk Model** — structural awareness of system risk
+- **Accountability Model** — traceable responsibility mapping
+- **Human Governance Layer** — human authority over critical decisions
+- **Ethical State Machine** — rule-based ethical decision logic 
 
 ---
 
 ## 🏗 Architecture Components
 
+Operational mechanisms supporting ethical governance:
 - Human Governance Layer  
 - Ethical State Machine  
 - Input / Output Contracts  
@@ -35,8 +44,8 @@ This layer includes:
 
 Ethical decision records are maintained in: [decision logs](./decision_logs)
 
-
-These logs provide traceability for high-risk or contested cases.
+These logs document high-risk decisions, governance interventions,
+and contested cases to preserve traceability.
 
 ---
 
@@ -46,5 +55,7 @@ These logs provide traceability for high-risk or contested cases.
 
 ---
 
-**Version:** v1 (Public Architecture Layer)  
+
+**Architecture Version:** v1  
+**Layer:** Public Ethics Architecture  
 **Status:** Active
