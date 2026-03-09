@@ -2,6 +2,10 @@
 
 Culture Key is a human-first AI governance framework designed to help organizations structure, supervise, and scale AI systems responsibly.
 
+The framework focuses on **governance capacity before scale**,
+ensuring that decision authority, oversight, and recovery mechanisms
+exist before AI systems operate at large impact levels.
+
 This public repository contains the presentation layer only — not internal implementation.
 
 ---
@@ -76,3 +80,9 @@ Controlled output layer.
 - operational modules
 
 All outputs are subject to validation and audit logging to maintain governance traceability.
+
+Culture Key focuses on a simple premise:
+
+**As AI systems scale, governance capacity becomes the real bottleneck.**
+
+The framework exists to ensure that scale does not outpace responsibility.
