@@ -7,7 +7,7 @@
 >
 > **Culture Key is designed to detect that failure point early.**
 
-Culture Key is designed for **pre-scale AI governance assurance**.
+Culture Key is designed for **pre-scale AI governance readiness**.
 
 This framework helps organizations identify structural risk **before** AI systems reach production scale.
 
