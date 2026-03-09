@@ -6,8 +6,7 @@ The assessment examines three structural layers:
 decision authority, intervention capability, and operational boundaries,
 mapping how governance holds under scale pressure.
 
-Culture Key provides a human-first prescale governance check designed for teams building AI systems that are approaching real-world deployment and scale.
-
+Culture Key provides a human-first prescale governance check designed for teams building AI systems approaching real-world deployment.
 
 ---
 
@@ -15,8 +14,7 @@ Culture Key provides a human-first prescale governance check designed for teams 
 
 A structured prescale review that helps organizations detect governance and safety gaps **before high-risk scale exposure**.
 
-It focuses on governance readiness — not model performance.
-
+The focus is governance readiness — **not model performance**.
 
 ---
 
@@ -31,7 +29,7 @@ The Pre-Scale Structural Check maps critical risk surfaces such as:
 - human oversight coverage  
 - consent and boundary clarity  
 
-> Governance capacity is often the hidden bottleneck at scale.
+> Governance capacity often becomes the hidden bottleneck at scale.
 
 ---
 
@@ -40,10 +38,11 @@ The Pre-Scale Structural Check maps critical risk surfaces such as:
 Most valuable when:
 
 - AI capabilities are accelerating  
-- guardrails are still fluid  
+- guardrails are still evolving  
 - teams are preparing for wider deployment  
-- leadership asks:  
-  **“Are we structurally safe to scale this?”**
+- leadership begins asking:
+
+**“Are we structurally safe to scale this system?”**
 
 ---
 
@@ -55,7 +54,7 @@ Depending on scope:
 - Governance gap identification  
 - Human oversight review  
 - Escalation path analysis  
-- Targeted recommendations  
+- Targeted governance recommendations  
 
 This is **not a compliance checkbox** —  
 it is an early structural signal.
@@ -65,7 +64,7 @@ it is an early structural signal.
 ## 👥 Who This Is For
 
 - AI startups approaching scale  
-- product teams integrating LLMs  
+- product teams integrating LLM systems  
 - responsible AI leads  
 - safety & governance teams  
 - founders building high-agency AI systems  
@@ -74,16 +73,19 @@ it is an early structural signal.
 
 ## 🔒 Public vs Private Scope
 
-**Public:**  
+**Public repository includes:**
+
 - framework principles  
 - high-level methodology  
-- risk categories  
+- governance architecture  
+- risk surface categories  
 
-**Private (client engagements):**  
+**Client engagements include:**
+
 - detailed diagnostics  
-- scoring logic  
-- internal assessment flow  
-- tailored findings  
+- internal assessment logic  
+- governance scoring framework  
+- tailored risk findings  
 
 ---
 
