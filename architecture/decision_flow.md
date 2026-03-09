@@ -67,7 +67,7 @@ The decision flow ensures that:
 - system outputs remain traceable  
 - human authority remains intact  
 
-Culture Key prioritizes **governance before automation**.
+Culture Key prioritizes **governance before scale** and **human authority before autonomous action**.
 
 
 
