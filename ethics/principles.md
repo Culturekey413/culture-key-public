@@ -5,8 +5,6 @@ Culture Key defines a human-centered governance lens for AI systems approaching 
 These principles establish the ethical baseline that informs system design,
 governance processes, and operational oversight within the Culture Key framework.
 
-These principles define the ethical foundation of the Culture Key ecosystem.
-They guide system design, governance decisions, and AI behavior boundaries.
 
 ---
 
