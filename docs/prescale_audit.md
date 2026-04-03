@@ -88,10 +88,19 @@ it is an early structural signal.
 - tailored risk findings  
 
 ---
+## 🔁 What Happens Next
+
+The audit process is lightweight and adaptive:
+
+1. Initial contact and context sharing  
+2. System overview (architecture, use case, risk exposure)  
+3. Structured evaluation across governance layers  
+4. Delivery of findings and recommendations  
+
+No internal systems or sensitive data are required at the first stage.
 
 ## ✉️ Collaboration
-
-For pilot audits or research collaboration:
+For teams interested in running a Pre-Scale Governance Audit:
 
 **culturekeylychnia@gmail.com**
 
