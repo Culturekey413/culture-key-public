@@ -22,11 +22,20 @@ This framework helps organizations identify structural risk **before** AI system
 > Governance capacity becomes the real bottleneck at scale.  
 > Culture Key surfaces and addresses this risk early.
 
+
 ## 🔎 Pre-Scale Governance Audit
 
-For teams evaluating structural readiness:
+For teams approaching scale and questioning their readiness:
 
-→ [Pre-Scale Governance Audit](./docs/prescale_audit.md)
+→ Run a Pre-Scale Governance Audit  
+→ Identify structural risks before deployment  
+→ Evaluate whether your system is safe to scale  
+
+[Start the Audit →](./docs/prescale_audit.md)
+
+---
+
+The audit is the current entry point into Culture Key.
 
 
 # 🌑 Culture Key — Public Overview
