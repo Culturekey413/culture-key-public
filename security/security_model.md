@@ -85,3 +85,13 @@ Culture Key prioritizes:
 
 Security is treated as a governance discipline,
 not only as a technical control.
+
+## Relation to Interaction Flow
+
+Security constraints apply primarily at:
+
+- Aequitas (ethical pre-check enforcement)
+- Magna (decision and escalation control)
+- Human escalation layer (approval enforcement)
+
+Security rules do not alter flow, but constrain allowed actions within each stage.
