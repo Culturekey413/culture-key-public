@@ -36,7 +36,7 @@ A system without clear authority
 is a system without responsibility.
 Defined human oversight
 Independent ethical layer
-No single-point control
+No single-point of failure in authority
 
 🟠 2. Veto Velocity — How fast can it stop?
 If intervention is slow,
