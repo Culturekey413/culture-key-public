@@ -23,11 +23,12 @@ no system can safely reverse its actions
 ⚖️ The Missing Layer
 
 Current AI systems focus on:
-performance
-speed
-scale
+- performance
+- speed
+- scale
+
 But they lack:
-Structured interruption
+- structured interruption
 
 🔴 The Culture Key STOP Framework
 
@@ -36,7 +37,7 @@ A system without clear authority
 is a system without responsibility.
 Defined human oversight
 Independent ethical layer
-No single-point of failure in authority
+**No single point of authority failure**
 
 🟠 2. Veto Velocity — How fast can it stop?
 If intervention is slow,
@@ -62,6 +63,9 @@ Traceable decision logic (why this over that)
 
 **Conflicting principles are not a flaw.
 Lack of arbitration is.**
+
+A system that cannot resolve internal conflict
+should never operate without external authority.
 
 🌍 Final Principle
 A system that cannot be stopped
