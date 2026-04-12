@@ -1,5 +1,11 @@
-# Culture Key — The Right to Stop
-## STOP Framework (v1)
+# Culture Key 
+## The Right to Stop
+
+A governance framework for pre-scale AI systems.
+
+AI doesn’t need to be smarter.  
+It needs to be stoppable.
+
 
 Status: Active
 Layer: Governance / Pre-Scale Control
