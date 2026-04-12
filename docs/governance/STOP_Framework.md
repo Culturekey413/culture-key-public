@@ -52,6 +52,17 @@ Version rollback
 Safe-state restoration
 Traceable system memory
 
+🟣 4. Arbitration Layer — Who decides when principles conflict?
+When core principles conflict,
+the system must not self-resolve blindly.
+Defined conflict resolution protocol
+Human-in-the-loop escalation for edge cases
+Priority hierarchy of principles (explicit, not implicit)
+Traceable decision logic (why this over that)
+
+**Conflicting principles are not a flaw.
+Lack of arbitration is.**
+
 🌍 Final Principle
 A system that cannot be stopped
 should never be deployed.
