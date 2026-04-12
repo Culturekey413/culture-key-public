@@ -38,26 +38,26 @@ Independent ethical layer
 If intervention is slow,
 intervention is useless.
 
--Real-time override
--Immediate access shutdown
--No delay between signal and action
+- Real-time override
+- Immediate access shutdown
+- No delay between signal and action
 
 🟡 3. Rollback Integrity — Can we go back safely?
 Stopping is not enough.
 Recovery must be possible.
 
--Version rollback
--Safe-state restoration
--Traceable system memory
+- Version rollback
+- Safe-state restoration
+- Traceable system memory
 
 🟣 4. Arbitration Layer — Who decides when principles conflict?
 When core principles conflict,
 the system must not self-resolve blindly.
 
--Defined conflict resolution protocol
--Human-in-the-loop escalation for edge cases
--Priority hierarchy of principles (explicit, not implicit)
--Traceable decision logic (why this over that)
+- Defined conflict resolution protocol
+- Human-in-the-loop escalation for edge cases
+- Priority hierarchy of principles (explicit, not implicit)
+- Traceable decision logic (why this over that)
 
 **Conflicting principles are not a flaw.
 Lack of arbitration is.**
