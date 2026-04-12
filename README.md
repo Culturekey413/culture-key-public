@@ -7,20 +7,19 @@
 >
 > **Culture Key is designed to detect that failure point early.**
 
-Culture Key is designed for **pre-scale AI governance readiness**.
+**Culture Key enables pre-scale AI governance readiness.**
 
 This framework helps organizations identify structural risk **before** AI systems reach production scale.
 
 **Pre-Scale Structural Check covers:**
 
 - authority gaps  
-- escalation latency  
-- rollback exposure  
-- decision integrity risks  
-- human oversight coverage  
+- veto latency
+- rollback exposure
+- decision integrity risks
+- human oversight coverage
 
 > Governance capacity becomes the real bottleneck at scale.  
-> Culture Key surfaces and addresses this risk early.
 
 
 ## 🔎 Pre-Scale Governance Audit
@@ -37,7 +36,24 @@ For teams approaching scale and questioning their readiness:
 
 The audit is the current entry point into Culture Key.
 
+## The Right to Stop
 
+A governance framework for pre-scale AI systems.
+
+AI doesn’t need to be smarter.  
+It needs to be stoppable.
+
+### Core Dimensions
+
+- Authority — Who can say stop?
+- Veto Velocity — How fast can it stop?
+- Rollback Integrity — Can we go back safely?
+- Arbitration Layer — Who decides when principles conflict?
+
+ [Read the full framework→](./frameworks/STOP_Framework_v1.md)
+   
+
+ 
 # 🌑 Culture Key — Public Overview
 
 *A human-first AI governance layer for systems approaching scale.*
@@ -102,6 +118,7 @@ which makes it the only moment where structural correction is still low-cost and
 3. 🧠 [Review Agent Architecture](./architecture/agent_roles.md)  
 4. 🔐 [Explore Security Model](./security/security_model.md)
 5. 📘 [Example Prescale Application](./docs/prescale_example.md)
+
    
 
 
