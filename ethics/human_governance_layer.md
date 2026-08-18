@@ -69,10 +69,17 @@ does not require individual human approval.
 
 ## Escalation
 
-Human escalation is required when a system reaches a decision that exceeds
-its authorized decision boundary.
+Escalation is required when a system actor or process reaches a decision
+that exceeds its authorized decision boundary.
 
-Examples include:
+The case must be routed through a predefined escalation path to an actor,
+role, or governance body with the mandate to address that class of decision.
+
+Human governance becomes mandatory where the applicable governance boundary,
+risk level, legal requirement, or impact requires authorized human judgment
+or intervention.
+
+Examples may include:
 
 - high-impact ambiguity
 - novel cases not covered by existing rules
@@ -80,11 +87,10 @@ Examples include:
 - uncertainty about legitimate authority
 - decisions with significant or irreversible consequences
 
-Escalation must identify the human role or governance body authorized to act.
+Escalation must identify the receiving authority and the basis of its mandate.
 
-"Escalate to human" is not sufficient unless the destination and authority
+"Escalate" is not sufficient unless the destination and authority
 of that escalation are defined.
-
 ---
 
 ## Arbitration
