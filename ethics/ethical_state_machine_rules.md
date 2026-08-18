@@ -39,8 +39,13 @@ Normal operation within approved governance boundaries.
 
 **System behavior:**
 
-- Operation proceeds normally.
-- Standard monitoring remains active.
+- Additional review is triggered.
+- Proportionate safeguards may be applied within the authority of the
+  relevant actor or mechanism.
+- Relevant context or evidence may be gathered.
+- Continued operation, restriction, or temporary pause must follow the
+  applicable action or intervention authority defined by the governance
+  implementation.
 
 ---
 
