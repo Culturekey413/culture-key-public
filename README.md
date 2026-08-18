@@ -17,8 +17,7 @@ AI systems are scaling faster than the governance structures meant to contain th
 The real bottleneck is no longer model capability —  
 it is whether systems can scale without structural, ethical, and operational risk.
 
-Culture Key addresses the **pre-scale governance gap**.
-
+Culture Key addresses the gap between AI capability and meaningful human governance.
 ---
 
 ## What Culture Key is
@@ -31,7 +30,7 @@ Culture Key is a human-first AI governance ecosystem designed to help teams:
 - maintain human oversight under real-world pressure  
 - avoid late-stage governance retrofits  
 
-It functions as a **prescale governance layer** that can be integrated before high-risk deployment.
+It functions as an evolving governance framework that connects human-first principles with observable structures for authority, intervention, accountability, and decision-making.
 
 Culture Key defines not only governance principles,  
 but also structured system behavior through:
@@ -158,12 +157,13 @@ Culture Key is designed for:
 
 ---
 
+
+
 ## Additional Documents
 
-- Limitations → LIMITATIONS.md
-- Public Scope → public_boundaries.md
-
+- [Limitations →](./LIMITATIONS.md)
+- [Public Scope →](./public_boundaries.md)
+  
 ## Status
-
-🧭 Prescale governance framework — evolving  
+🧭 Human-first AI governance framework — evolving  
 🔒 Sensitive components remain in private repositories
