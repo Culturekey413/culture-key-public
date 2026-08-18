@@ -63,8 +63,10 @@ effective in the context in which the system operates.
 A system should not resolve decisions beyond its legitimate authority
 simply because autonomous resolution is technically possible.
 
+
 When an authority boundary is reached, the case must follow a predefined
-escalation path.
+escalation path to an actor, role, or governance body with the mandate
+to address that class of decision.
 
 When ordinary escalation cannot legitimately resolve a serious governance
 conflict, arbitration may be required.
@@ -109,3 +111,6 @@ Human governance is not human control over every system action.
 
 It is the preservation of legitimate, accountable, and contestable human
 authority over the boundaries within which autonomous systems operate.
+
+---
+
