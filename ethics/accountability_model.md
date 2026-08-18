@@ -1,98 +1,192 @@
 # Accountability Model
 
-The Culture Key accountability model defines clear human responsibility,
-oversight authority, and escalation structure for AI-governed environments.
+The Culture Key Accountability Model defines how responsibility,
+authority, review, and escalation are assigned across an AI governance system.
+
+Its purpose is to prevent responsibility gaps and ensure that every
+governance-critical decision has an identifiable and legitimate owner.
+
+Accountability is not the same as control.
+
+A role may execute an action without having authority to define the rule
+under which that action is permitted.
 
 ---
 
-## Control Authority
+## Core Principles
 
-**Human Governance Layer (HGL)** retains ultimate control.
+The accountability model is based on the following principles:
 
-Responsibilities:
-- approves policy changes
-- authorizes high-risk decisions
-- validates escalation outcomes
-- can halt or override system behavior
-
-No autonomous component can modify governance rules.
+- responsibility must be explicit
+- authority must have defined scope
+- execution and approval should be separated where risk requires it
+- high-impact decisions must remain reviewable
+- escalation must have a defined destination
+- governance conflicts require a defined arbitration path
+- no critical function should depend on a single point of authority failure
+- accountability must remain traceable across both human and automated actors
 
 ---
 
-## Audit Responsibility
+## Governance Roles
 
-Audit functions ensure traceability and verifiability.
+Culture Key does not prescribe fixed organizational titles.
 
-Primary mechanisms:
-- decision logs
-- risk flags
-- integrity checks
-- post-validation review
+Implementations should assign governance functions according to system
+scale, risk, and context.
 
-Audits may be performed by:
-- internal governance reviewers
-- designated ethics reviewers
-- authorized external auditors (when applicable)
+### Operational Responsibility
+
+Responsible for executing or coordinating an authorized action.
+
+Examples may include:
+
+- system operation
+- monitoring
+- risk detection
+- execution of approved safeguards
+- escalation initiation
+
+Operational responsibility does not automatically grant governance authority.
+
+### Decision Authority
+
+Authorized to make defined governance decisions within an explicit mandate.
+
+The scope of authority should specify:
+
+- which decisions may be made
+- under what conditions
+- with what constraints
+- when additional review is required
+- when authority must be escalated
+
+### Review Authority
+
+Responsible for examining governance-critical decisions, changes,
+or interventions.
+
+Review should be sufficiently independent from the original decision
+where the level of risk requires meaningful challenge.
+
+### Stop / Intervention Authority
+
+Authorized to suspend, restrict, block, or initiate rollback when
+approved governance boundaries are exceeded.
+
+Stop authority must be explicit and accessible quickly enough to prevent
+avoidable harm or compounding risk.
+
+### Arbitration Authority
+
+Activated when ordinary decision or review paths cannot legitimately
+resolve a governance conflict.
+
+Arbitration may be required when:
+
+- protected principles conflict
+- authorized decision-makers disagree
+- a high-impact decision is contested
+- the scope or legitimacy of an authority is itself disputed
+
+The authority whose mandate is under dispute should not be the sole
+arbiter of that dispute.
 
 ---
 
 ## Responsibility Mapping
 
-Accountability is explicitly assigned:
+Each governance-critical function should identify, at minimum:
 
-- **HGL:** final ethical authority  
-- **Codex Root:** policy integrity  
-- **Aequitas:** runtime ethical enforcement  
-- **Magna:** system coordination integrity  
-- **PosterKit:** controlled output generation  
+- **Responsible** — who performs or coordinates the action
+- **Accountable** — who owns the outcome
+- **Consulted** — whose relevant judgment is required
+- **Informed** — who must receive the decision or outcome
+- **Review Authority** — who can independently examine the decision
+- **Escalation / Arbitration Path** — where unresolved conflict goes
 
-This prevents responsibility diffusion.
-
----
-
-## Escalation Process
-
-When risk or ambiguity is detected:
-
-**LOW RISK**
-→ handled within system guardrails
-
-**MEDIUM RISK**
-→ Ethical State Machine triggers REVIEW
-
-**HIGH RISK**
-→ ESCALATE_TO_HUMAN (HGL required)
-
-**CRITICAL**
-→ system restriction or block until human decision
-
-Escalation latency and outcomes are logged.
+RACI may be used as a starting structure, but governance-critical systems
+should make review and escalation authority explicit rather than assuming
+they are captured by ordinary accountability labels.
 
 ---
 
-## Design Principle
+## Escalation and Arbitration
 
-Culture Key enforces:
+Escalation occurs when a decision exceeds the legitimate authority or
+decision boundary of the current actor.
 
-- explicit human accountability  
-- verifiable decision paths  
-- no silent autonomous authority  
-- governance before scale
+Arbitration occurs when escalation alone cannot resolve a governance conflict.
 
-  
-  ## Responsibility Matrix (RACI)
+An escalation record should identify:
 
-| Function | Responsible | Accountable | Consulted | Informed |
-|----------|------------|------------|-----------|----------|
-| Policy integrity | Codex Root | Human Governance Layer | Ethics reviewers | Org stakeholders |
-| Runtime ethics enforcement | Aequitas | Human Governance Layer | Magna | Product teams |
-| System coordination | Magna | Human Governance Layer | Aequitas | Ops teams |
-| Output safety | PosterKit | Human Governance Layer | Lychnia | End users |
-| High-risk decisions | Human Governance Layer | Human Governance Layer | Relevant experts | Audit logs |
+- the triggering issue
+- the current decision owner
+- the authority boundary that was reached
+- the destination of escalation
+- whether arbitration is required
+- the final resolution authority
 
-**RACI key:**
+No escalation path should terminate at an undefined "human review."
 
-- **R — Responsible:** executes  
-- **A — Accountable:** final authority  
-- **C — Consulted:** provides input  
-- **I — Informed:** notified
+---
+
+## Drift Accountability
+
+Accountability also applies to gradual governance drift.
+
+When repeated exceptions, behavioral changes, altered escalation patterns,
+or changes in practical authority indicate material deviation from the
+approved governance baseline, the system should identify:
+
+- who owns drift detection
+- who determines materiality
+- who may restrict operation during review
+- who authorizes correction or rollback
+- who validates return to normal operation
+
+Drift must not become ownerless simply because no single failure event
+triggered it.
+
+---
+
+## Decision Traceability
+
+Governance-critical decisions should produce a trace appropriate to their
+impact.
+
+The trace should make it possible to determine:
+
+- what happened
+- who or what initiated the decision
+- who had authority to act
+- the basis and scope of that authority
+- who reviewed the decision
+- whether disagreement occurred
+- whether escalation or arbitration was triggered
+- what final decision was reached
+- who remains accountable for the outcome
+
+---
+
+## Reference Implementations
+
+Specific AI agents, orchestration components, teams, or organizational
+roles may be mapped onto this accountability model.
+
+Those mappings are implementation-specific and should not be treated as
+universal governance requirements.
+
+Culture Key reference architectures may demonstrate such mappings
+separately from the general accountability model.
+
+---
+
+## Final Principle
+
+Accountability must follow authority.
+
+Where authority is distributed, accountability must remain traceable.
+
+Where authority is contested, a legitimate review and arbitration path
+must exist.
