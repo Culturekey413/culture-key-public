@@ -1,47 +1,111 @@
-# 🛡 Human Governance First (Public Overview)
+# Human Governance First
 
-Culture Key is built on one fundamental rule:
+Culture Key treats human governance as a requirement of legitimate AI
+authority, not as a final checkpoint added after autonomous decisions
+have already been made.
 
-> **No ethical rule or behavioural pattern can change without explicit human approval.**
+Human involvement alone is not sufficient.
 
-This is enforced by the **Human Governance Layer (HGL)**, which ensures:
-
-- no platform or investor can override core ethics  
-- no automated update can modify critical behaviour  
-- all sensitive changes require documented human review  
-- designated decisions require dual human approval  
-
-The HGL protects the ecosystem from:
-
-- external pressure  
-- misuse or exploitation  
-- silent behavioural drift  
-- loss of human agency  
-
-It is the structural reason Culture Key remains aligned with human values.
-
-> See **Human Governance Layer** for implementation details.
+Governance requires defined authority, accountability, review,
+intervention, escalation, and contestability.
 
 ---
 
-# 🛡 Πρωτοκαθεδρία Ανθρώπινης Εποπτείας
+## Core Principle
 
-Το Culture Key βασίζεται σε έναν θεμελιώδη κανόνα:
+No governance-critical rule, authority boundary, protected constraint,
+or intervention mechanism should change outside an authorized governance
+process.
 
-> **Καμία ηθική ρύθμιση ή συμπεριφορά δεν αλλάζει χωρίς ρητή ανθρώπινη έγκριση.**
+Routine adaptation may occur within approved boundaries.
 
-Αυτό διασφαλίζεται από το **Human Governance Layer (HGL)**, το οποίο:
+Changes to the boundaries themselves require authorized review.
 
-- δεν επιτρέπει σε επενδυτές ή πλατφόρμες να παρακάμψουν τον ηθικό πυρήνα  
-- δεν επιτρέπει σε αυτόματες ενημερώσεις να τροποποιούν κρίσιμη συμπεριφορά  
-- απαιτεί καταγεγραμμένο ανθρώπινο έλεγχο για ευαίσθητες αλλαγές  
-- απαιτεί διπλή ανθρώπινη έγκριση όπου ορίζεται  
+---
 
-Το HGL προστατεύει το οικοσύστημα από:
+## Human Authority Must Be Defined
 
-- εξωτερική πίεση  
-- εκμετάλλευση ή κακή χρήση  
-- σιωπηρή απόκλιση συμπεριφοράς  
-- απώλεια ανθρώπινης εποπτείας  
+A human does not gain legitimate governance authority merely by being
+present in the decision loop.
 
-Είναι ο δομικός λόγος που το Culture Key παραμένει ευθυγραμμισμένο με ανθρώπινες αξίες.
+For governance-critical decisions, the system should make clear:
+
+- who has authority to decide
+- the scope of that authority
+- who remains accountable for the outcome
+- who may review or challenge the decision
+- where unresolved conflict is escalated
+
+Human authority must itself remain governable.
+
+---
+
+## Meaningful Intervention
+
+Human governance must remain capable of meaningful intervention when
+approved boundaries are exceeded.
+
+This includes the ability, where authorized, to:
+
+- restrict operation
+- pause or block an action
+- initiate rollback or safe-state restoration
+- require additional review
+- escalate unresolved decisions
+
+Intervention authority must be explicit and fast enough to remain
+effective in the context in which the system operates.
+
+---
+
+## Escalation and Arbitration
+
+A system should not resolve decisions beyond its legitimate authority
+simply because autonomous resolution is technically possible.
+
+When an authority boundary is reached, the case must follow a predefined
+escalation path.
+
+When ordinary escalation cannot legitimately resolve a serious governance
+conflict, arbitration may be required.
+
+The authority whose legitimacy or scope is itself disputed should not be
+the sole arbiter of that dispute.
+
+---
+
+## Drift
+
+Human governance also applies to gradual deviation.
+
+Material behavioral, governance, authority, or exception drift should
+trigger proportionate review and, where required, intervention,
+correction, rollback, or revalidation.
+
+The absence of a single failure event does not remove accountability for
+a pattern of deviation.
+
+---
+
+## Traceability
+
+Governance-critical decisions should leave enough evidence to reconstruct:
+
+- what was detected
+- who evaluated it
+- who had authority to decide
+- what action was authorized
+- who remained accountable
+- whether the decision was challenged
+- how escalation or arbitration was resolved
+
+An outcome without a traceable authority path is not fully governed.
+
+---
+
+## Final Principle
+
+Human governance is not human control over every system action.
+
+It is the preservation of legitimate, accountable, and contestable human
+authority over the boundaries within which autonomous systems operate.
