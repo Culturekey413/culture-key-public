@@ -1,46 +1,63 @@
 # 🌱 Mission — Culture Key
 
-Our mission is to create an AI ecosystem that protects human clarity, 
-creativity and emotional autonomy.
+Our mission is to strengthen meaningful human governance as AI systems
+become more capable, autonomous, and complex.
 
-We design tools and frameworks that:
-- prioritize consent  
-- respect personal boundaries  
-- avoid manipulation  
-- encourage honest communication  
-- amplify authentic expression  
-- support human emotional well-being  
+Culture Key develops governance frameworks and structures designed to preserve:
 
-Culture Key is not built for exploitation or data extraction.  
-It is built to **strengthen human agency** in a world of accelerating AI systems.
+- human agency and meaningful oversight
+- clear authority and accountability
+- the ability to intervene, stop, and correct
+- consent and personal boundaries
+- decision traceability
+- protection against manipulation and loss of human autonomy
+
+The goal is not to constrain AI capability for its own sake.
+
+It is to ensure that increasing capability does not weaken the human
+capacity to understand, question, intervene, and remain meaningfully
+responsible for the systems we create and use.
+
+Culture Key is built to strengthen human agency — not replace it.
 
 ---
 
 ## 🇬🇷 Αποστολή
 
-Η αποστολή του Culture Key είναι η δημιουργία ενός οικοσυστήματος ΤΝ που 
-προστατεύει την καθαρότητα σκέψης, τη δημιουργικότητα και την ψυχική αυτονομία του ανθρώπου.
+Η αποστολή του Culture Key είναι να ενισχύει την ουσιαστική ανθρώπινη
+διακυβέρνηση καθώς τα συστήματα ΤΝ γίνονται πιο ικανά, αυτόνομα και σύνθετα.
 
-Σχεδιάζουμε εργαλεία που:
-- σέβονται τα όρια  
-- λειτουργούν με συναίνεση  
-- αποφεύγουν τη χειραγώγηση  
-- ενισχύουν την αυθεντική έκφραση  
-- υπηρετούν τη διαφάνεια και την αλήθεια  
-- στηρίζουν την ψυχική ασφάλεια  
+Το Culture Key αναπτύσσει πλαίσια και δομές διακυβέρνησης που έχουν ως στόχο
+να διατηρούν:
 
-Το Culture Key δημιουργήθηκε για να ενδυναμώνει τον άνθρωπο — όχι να τον αντικαθιστά.
+- την ανθρώπινη αυτενέργεια και ουσιαστική εποπτεία
+- σαφή εξουσία και λογοδοσία
+- τη δυνατότητα παρέμβασης, διακοπής και διόρθωσης
+- τη συναίνεση και τα προσωπικά όρια
+- την ιχνηλασιμότητα των αποφάσεων
+- την προστασία από χειραγώγηση και απώλεια ανθρώπινης αυτονομίας
+
+Στόχος δεν είναι ο περιορισμός των δυνατοτήτων της ΤΝ ως αυτοσκοπός.
+
+Είναι να διασφαλίζεται ότι η αύξηση των δυνατοτήτων της δεν αποδυναμώνει
+την ανθρώπινη ικανότητα να κατανοεί, να αμφισβητεί, να παρεμβαίνει και να
+παραμένει ουσιαστικά υπεύθυνη για τα συστήματα που δημιουργούμε και χρησιμοποιούμε.
+
+Το Culture Key δημιουργείται για να ενισχύει την ανθρώπινη αυτενέργεια —
+όχι για να την αντικαθιστά.
+
 ---
 
 ## How We Work
 
 Culture Key develops:
 
-• ethical design frameworks  
-• governance architectures for AI systems  
-• consent-first interaction models  
-• human oversight integration methods  
-• research and practical guidelines for responsible AI  
+- human-first governance frameworks
+- governance architectures for AI systems
+- consent and intervention models
+- human oversight and accountability structures
+- decision-traceability methods
+- research and practical guidance for responsible AI
 
-The mission is implemented through applied system design, research and public ethical frameworks.
-
+The mission is implemented through applied governance design,
+research, public frameworks, and practical governance tools.
