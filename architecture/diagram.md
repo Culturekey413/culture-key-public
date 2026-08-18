@@ -1,79 +1,185 @@
-# 🔐 Culture Key — Architecture Diagram (Public v2)
+# 🔐 Culture Key — Architecture Diagram (Public)
 
 ## Overview
 
-Culture Key is a pre-scale AI governance framework designed to detect structural risks **before deployment** and maintain alignment **after deployment**.
+Culture Key is a human-centered AI governance framework designed to preserve
+governability across the AI lifecycle.
 
-It introduces a human-first control spine across the AI lifecycle.
+It defines governance functions, authority boundaries, risk controls,
+intervention mechanisms, and accountability structures that may be implemented
+through different technical architectures.
+
+Culture Key does not require specific agents, models, or orchestration
+components.
+
+Named agents used in Culture Key reference implementations represent one
+possible implementation of these governance functions.
 
 ---
 
-## Architecture
+## Core Governance Architecture
 
-### Control Flow Overview
+```text
 
-The diagram below shows how Culture Key introduces governance controls before and after AI execution.
+                    Governance Principles
+                           │
+                           ▼
+                Authority & Accountability
+                           │
+                           ▼
+                Governance Decision Layer
+            ┌──────────────┼──────────────┐
+            │              │              │
+            ▼              ▼              ▼
+      Risk Evaluation   State Logic   Interaction
+                                     Boundaries
+            │              │              │
+            └──────────────┼──────────────┘
+                           ▼
+                 Authorized System Action
+                           │
+          ┌────────────────┼────────────────┐
+          │                │                │
+          ▼                ▼                ▼
+       Continue         Restrict         Escalate
+                         / Stop
+          │                │                │
+          └────────────────┼────────────────┘
+                           ▼
+                   Evidence & Traceability
+                           │
+                           ▼
+              Monitoring / Drift Detection
+                           │
+          ┌────────────────┼────────────────┐
+          │                │                │
+          ▼                ▼                ▼
+        Review          Recovery        Revalidation
+                           │
+                           ▼
+                   Governance Baseline
+
 
 ```
 
-Human Governance Layer
-          │
-          ▼
-      Codex Root
- (Policy Source of Truth)
-          │
-   ┌──────┴──────┐
-   │             │
-   ▼             ▼
-Pre-Scale Structural Check
-  (Risk Mapping Layer)
-          │
-          ▼
- ┌────────┼────────┐
- │        │        │
- ▼        ▼        ▼
-Aequitas  Lychnia  Magna
-(Ethical  (Meaning) (Orchestrator)
- Guard)
-   │        │        │
-   └────────┴────────┘
-            │ (sync)
-            ▼
-        PosterKit
- (Controlled Expression)
-            │
-            ▼
-     Outputs / Artifacts
-            │
-            ▼
- Post-Validation Layer
- (Integrity & Safety Check)
-            │
-            ▼
-        Audit / Logging
-```
+### Authority Boundaries
+
+Detection, evaluation, decision authority, intervention authority,
+and accountability are distinct governance functions.
+
+They should not be assumed to belong to the same actor or mechanism.
+
+When a decision exceeds the mandate of the current actor or process,
+the case follows a predefined escalation path.
+
+Where ordinary escalation cannot legitimately resolve a serious governance
+conflict, arbitration may be required.
+
+## Lifecycle Application
+
+The Core Governance Architecture may be applied throughout the AI lifecycle.
+
+## Pre-Scale
+
+Before scale or high-impact deployment, Culture Key can be used to evaluate:
+
+-authority gaps
+-accountability gaps
+-escalation integrity
+-intervention capability
+-rollback and recovery readiness
+-governance drift exposure
+-emergent interaction risk
+-decision traceability
+
+The goal is to ask:
+
+Are we structurally governable before we scale?
+
+## Deployment and Operation
+
+During deployment and operation, governance mechanisms support:
+
+-authorized decision boundaries
+-state transitions
+-monitoring and drift detection
+-intervention and stop authority
+-escalation
+-accountability
+-traceability
+-recovery and revalidation
+-Change and Revalidation
+
+Material changes in:
+
+-behavior
+-capability
+-authority
+-system interaction
+-risk exposure
+-governance structure
+
+may require renewed review or revalidation.
+
+**Governability should not be assumed to remain valid simply because it
+was established previously.**
+
+
+## Specialized Governance Frameworks
+
+Culture Key may include specialized frameworks that examine specific
+governance capabilities.
+
+For example:
+
+-STOP Framework
+
+Evaluates whether a system can be meaningfully interrupted and recovered
+through:
+
+-defined stop authority
+-intervention velocity
+-rollback integrity
+-legitimate conflict resolution
+
+Specialized frameworks apply Culture Key principles to narrower governance
+problems.
+
+They do not replace the Core Governance Architecture.
+
+## Reference Implementations
+
+Culture Key governance functions may be implemented through different
+technical designs.
+
+A reference implementation may use specialized components or agents for
+functions such as:
+
+-semantic interpretation
+-risk detection
+-policy enforcement
+-orchestration
+-controlled expression
+-monitoring
+-recovery
+
+Culture Key reference agents such as Aequitas, Lychnia, Magna,
+or PosterKit illustrate one possible architecture.
+
+They are not required components of the framework.
+
+## Key Principle
+
+Culture Key defines what governance functions must be addressed.
+
+It does not prescribe which agent, model, platform, or technical component
+must perform them.
+
+Implementation may vary.
+
+**Governance responsibility may not disappear with it.**
+
+
 ---
 
-## Key Differentiator
 
-Culture Key introduces a **Pre-Scale Structural Check** layer that maps:
-
-- authority gaps  
-- escalation latency  
-- rollback exposure  
-- decision integrity risks  
-
-before AI systems scale in production environments.
-
----
-
-## Design Principles
-
-- Human responsibility over automation  
-- Structural clarity before scale  
-- Trust through verifiable governance  
-- Safety before speed  
-
----
-
-**Culture Key — Human-first AI governance.**
