@@ -83,41 +83,41 @@ The Core Governance Architecture may be applied throughout the AI lifecycle.
 
 Before scale or high-impact deployment, Culture Key can be used to evaluate:
 
--authority gaps
--accountability gaps
--escalation integrity
--intervention capability
--rollback and recovery readiness
--governance drift exposure
--emergent interaction risk
+- authority gaps
+- accountability gaps
+- escalation integrity
+- intervention capability
+- rollback and recovery readiness
+- governance drift exposure
+- emergent interaction risk
 -decision traceability
 
 The goal is to ask:
 
-Are we structurally governable before we scale?
+**Are we structurally governable before we scale?**
 
 ## Deployment and Operation
 
 During deployment and operation, governance mechanisms support:
 
--authorized decision boundaries
--state transitions
--monitoring and drift detection
--intervention and stop authority
--escalation
--accountability
--traceability
--recovery and revalidation
--Change and Revalidation
+- authorized decision boundaries
+- state transitions
+- monitoring and drift detection
+- intervention and stop authority
+- escalation
+- accountability
+- traceability
+- recovery and revalidation
+- Change and Revalidation
 
 Material changes in:
 
--behavior
--capability
--authority
--system interaction
--risk exposure
--governance structure
+- behavior
+- capability
+- authority
+- system interaction
+- risk exposure
+- governance structure
 
 may require renewed review or revalidation.
 
@@ -137,10 +137,10 @@ For example:
 Evaluates whether a system can be meaningfully interrupted and recovered
 through:
 
--defined stop authority
--intervention velocity
--rollback integrity
--legitimate conflict resolution
+- defined stop authority
+- intervention velocity
+- rollback integrity
+- legitimate conflict resolution
 
 Specialized frameworks apply Culture Key principles to narrower governance
 problems.
@@ -155,13 +155,13 @@ technical designs.
 A reference implementation may use specialized components or agents for
 functions such as:
 
--semantic interpretation
--risk detection
--policy enforcement
--orchestration
--controlled expression
--monitoring
--recovery
+- semantic interpretation
+- risk detection
+- policy enforcement
+- orchestration
+- controlled expression
+- monitoring
+- recovery
 
 Culture Key reference agents such as Aequitas, Lychnia, Magna,
 or PosterKit illustrate one possible architecture.
