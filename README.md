@@ -1,65 +1,14 @@
-## 🔰 Pre-Scale Readiness Signal
-
-[![License: CC BY-NC-ND 4.0](https://img.shields.io/badge/license-CC%20BY--NC--ND%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-nd/4.0/)
-
-> AI systems rarely fail because of the model.  
-> They fail because governance breaks under scale.
->
-> **Culture Key is designed to detect that failure point early.**
-
-**Culture Key enables pre-scale AI governance readiness.**
-
-This framework helps organizations identify structural risk **before** AI systems reach production scale.
-
-**Pre-Scale Structural Check covers:**
-
-- authority gaps  
-- veto latency
-- rollback exposure
-- decision integrity risks
-- human oversight coverage
-
-> Governance capacity becomes the real bottleneck at scale.  
-
-
-## 🔎 Pre-Scale Governance Audit
-
-For teams approaching scale and questioning their readiness:
-
-→ Run a Pre-Scale Governance Audit  
-→ Identify structural risks before deployment  
-→ Evaluate whether your system is safe to scale  
-
-[Start the Audit →](./docs/prescale_audit.md)
-
----
-
-The audit is the current entry point into Culture Key.
-
-## The Right to Stop
-
-A governance framework for pre-scale AI systems.
-
-AI doesn’t need to be smarter.  
-It needs to be stoppable.
-
-### Core Dimensions
-
-- Authority — Who can say stop?
-- Veto Velocity — How fast can it stop?
-- Rollback Integrity — Can we go back safely?
-- Arbitration Layer — Who decides when principles conflict?
-
- [Read the full framework→](./frameworks/STOP_Framework_v1.md)
-   
-
- 
 # 🌑 Culture Key — Public Overview
 
-*A human-first AI governance layer for systems approaching scale.*
-Designed for teams building AI systems that must scale safely.
+*A human-first AI governance framework for preserving human agency,
+accountability, and meaningful oversight in AI systems.*
+
+Culture Key explores how governance can be designed into AI systems —
+not only as principles, but as observable structures for authority,
+intervention, arbitration, and decision traceability.
 
 ---
+
 
 ## Why Culture Key exists
 
@@ -95,21 +44,63 @@ but also structured system behavior through:
 This allows governance to be observed, not only defined.
 ---
 
-## Where it fits in the lifecycle
+## Where Culture Key operates
 
-Culture Key operates **before and during scale**, when:
+Culture Key is not tied to a single stage of the AI lifecycle.
 
-- capabilities are accelerating  
-- guardrails are still fluid  
-- and small design decisions compound into systemic risk  
+It is designed as an evolving human-first governance framework for
+examining how authority, accountability, human agency, intervention,
+and decision integrity are preserved as AI systems change.
 
-It is most useful when teams ask:
+Different Culture Key frameworks and tools may address different
+governance conditions across the AI lifecycle.
 
-> "Are we structurally safe to scale this?"
-> 
-At this stage, governance is still malleable —  
-which makes it the only moment where structural correction is still low-cost and high-impact.
+The current operational entry point focuses on **pre-scale governance**,
+where structural decisions are still malleable and early intervention
+can prevent governance failures from becoming embedded at scale.
+
 ---
+
+## 🔰 Current Operational Entry Point: Pre-Scale Governance
+
+One current application of Culture Key focuses on a critical transition:
+the point before AI systems move into wider real-world deployment.
+
+At this stage, governance decisions are still malleable and structural
+correction remains possible.
+
+### Pre-Scale Readiness Signal
+
+AI systems rarely fail because of the model.  
+They fail because governance breaks under scale.
+
+**Culture Key is designed to detect that failure point early.**
+
+### 🔎 Pre-Scale Governance Audit
+
+For teams approaching scale and questioning their readiness:
+
+- identify structural risks before deployment
+- examine authority, intervention, rollback, and oversight
+- evaluate whether governance is ready for wider deployment
+
+[Start the Pre-Scale Governance Audit →](./docs/prescale_audit.md)
+
+### The Right to Stop
+
+A governance framework for pre-scale AI systems.
+
+> AI doesn’t need to be smarter.  
+> It needs to be stoppable.
+
+**Core Dimensions**
+
+- Authority — Who can say stop?
+- Veto Velocity — How fast can it stop?
+- Rollback Integrity — Can we go back safely?
+- Arbitration Layer — Who decides when principles conflict?
+
+[Read The Right to Stop →](./frameworks/STOP_Framework_v1.md)
 
 ## Start Here
 
