@@ -90,7 +90,7 @@ Before scale or high-impact deployment, Culture Key can be used to evaluate:
 - rollback and recovery readiness
 - governance drift exposure
 - emergent interaction risk
--decision traceability
+- decision traceability
 
 The goal is to ask:
 
@@ -108,7 +108,9 @@ During deployment and operation, governance mechanisms support:
 - accountability
 - traceability
 - recovery and revalidation
-- Change and Revalidation
+
+
+## Change and Revalidation
 
 Material changes in:
 
@@ -132,7 +134,7 @@ governance capabilities.
 
 For example:
 
--STOP Framework
+### STOP Framework
 
 Evaluates whether a system can be meaningfully interrupted and recovered
 through:
