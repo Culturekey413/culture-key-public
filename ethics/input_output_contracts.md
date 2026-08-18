@@ -173,6 +173,10 @@ risk to the life, physical safety, or fundamental rights of one or more
 people, additional processing or escalation may be justified where
 necessary and legally permitted.
 
+The determination that such a threshold has been met must be made through
+an authorized assessment process appropriate to the severity and context
+of the risk.
+
 Such exceptional action should be:
 
 - proportionate to the severity and credibility of the risk
