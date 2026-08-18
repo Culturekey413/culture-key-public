@@ -1,77 +1,189 @@
 # Ethical Principles — Culture Key
 
-Culture Key defines a human-centered governance lens for AI systems approaching scale.
+Culture Key defines a human-centered governance framework for AI systems.
 
-These principles establish the ethical baseline that informs system design,
-governance processes, and operational oversight within the Culture Key framework.
+These principles establish the ethical and governance baseline from which
+the framework's authority structures, risk controls, intervention mechanisms,
+and accountability processes are derived.
 
-
----
-
-## 1. Consent First
-All AI interactions must respect explicit and informed user consent.
-
-- No assumption of consent  
-- Consent must be reversible where applicable  
-- Sensitive interactions require heightened safeguards  
+They are intended to remain stable even as specific technologies,
+implementations, and operational contexts change.
 
 ---
 
-## 2. Human Oversight
-Humans retain final authority over ethical and behavioral changes.
+## 1. Human Agency
 
-- No autonomous ethical drift  
-- Critical decisions remain human-governed  
-- Escalation paths must remain available  
+AI systems should preserve meaningful human judgment, choice, and capacity
+to act.
 
----
+Systems should support human decision-making without unnecessarily
+displacing, manipulating, or structurally weakening it.
 
-## 3. Transparency
-Systems must provide understandable reasoning for significant decisions.
+This includes:
 
-- Decision pathways must be explainable  
-- Governance logic must be inspectable at a high level  
-- Users should not face opaque behavioral shifts  
+- preserving meaningful decision space
+- avoiding unjustified behavioral steering
+- preventing dependency from becoming a substitute for human judgment
+- maintaining meaningful routes to question, refuse, or challenge system influence
 
----
+Human agency does not require human control over every system action.
 
-## 4. Non-Manipulation
-AI must not exploit cognitive bias, emotional vulnerability, or information asymmetry.
-
-- No coercive framing  
-- No deceptive persuasion  
-- No hidden behavioral steering  
+It requires that autonomy does not eliminate meaningful human choice.
 
 ---
 
-## 5. Accountability
-Responsibility for system behavior must remain traceable.
+## 2. Legitimate and Bounded Authority
 
-- Decisions must be attributable  
-- Governance actions must be logged  
-- Oversight responsibility must be clearly assigned  
+No actor — human or automated — should exercise governance-relevant authority
+merely because it is technically capable of doing so.
+
+Authority should be:
+
+- explicitly defined
+- limited in scope
+- appropriate to the decision being made
+- traceable to a legitimate mandate
+- reviewable where its use or scope is contested
+
+Detection of a condition does not itself grant authority to act upon it.
+
+Human presence alone does not establish legitimate authority.
+
+Autonomous capability alone does not establish legitimate authority.
 
 ---
 
-## 6. Respect for Human Agency
-AI systems are designed to support — never replace — human judgment and autonomy.
+## 3. Accountability
 
-- Preserve user decision space  
-- Avoid over-automation of sensitive choices  
-- Maintain human-in-the-loop where risk is material  
+Governance-relevant decisions must remain attributable to defined actors,
+roles, or processes.
+
+The system should make it possible to determine:
+
+- who or what acted
+- under what authority
+- who remained responsible
+- who was accountable for the outcome
+- who could independently review or challenge the decision
+
+Responsibility may be distributed.
+
+Accountability must not disappear because it is.
 
 ---
 
-## Goal
+## 4. Non-Manipulation and Respect for Cognitive Integrity
 
-Establish durable trust, predictable governance,
-and human-centered AI behavior at scale.
+AI systems should not rely on unjustified coercion, deception,
+exploitation of vulnerability, or hidden behavioral steering.
 
-These principles inform the Culture Key governance framework, including:
+The objective is not to eliminate influence from human-AI interaction.
 
-- Pre-Scale Risk Lens
-- Governance Process
-- Pre-Scale Audit
+The objective is to prevent influence from becoming a mechanism for
+undermining informed and voluntary human judgment.
 
-Culture Key  
-Human-centered governance for systems approaching scale.
+Systems should distinguish assistance and persuasion from manipulation,
+particularly where power, information, or capability is asymmetric.
+
+---
+
+## 5. Traceability and Contestability
+
+Governance-relevant decisions should leave sufficient evidence for their
+decision and authority paths to be reconstructed.
+
+Where appropriate, affected decisions should also remain meaningfully
+reviewable or challengeable.
+
+Traceability should support:
+
+- reconstruction of material decisions
+- identification of authority and accountability
+- review of interventions and state transitions
+- investigation of drift or repeated exceptions
+- meaningful contestability
+
+Transparency does not require unrestricted exposure of every internal
+system process.
+
+It requires sufficient visibility for legitimate governance, accountability,
+and challenge.
+
+---
+
+## 6. Proportionality and Protection
+
+Governance responses should be proportionate to the credibility,
+materiality, and potential impact of the risk.
+
+Neither safety nor privacy should function as an unlimited claim to authority.
+
+Protective intervention may be justified when serious risk requires it,
+but exceptional action should remain:
+
+- necessary for a defined protective purpose
+- proportionate to the risk
+- bounded by legitimate authority
+- traceable and reviewable
+- limited in duration and scope where applicable
+
+The existence of risk does not remove the obligation to govern the response
+to that risk.
+
+---
+
+## 7. Governability Through Change
+
+A system should remain governable as its behavior, capabilities,
+interactions, and operating context change.
+
+Governance must therefore address not only individual failures but also:
+
+- behavioral drift
+- authority drift
+- recurring exceptions
+- emergent multi-system or multi-agent behavior
+- weakening safeguards
+- changes that alter previously approved assumptions
+
+Material change should trigger appropriate review, correction,
+revalidation, or escalation.
+
+A system that was governable at deployment should not be assumed to remain
+governable indefinitely.
+
+---
+
+## Relationship Between Principles
+
+These principles should not be treated as isolated rules.
+
+They may come into legitimate tension.
+
+Human agency may conflict with protection.
+
+Transparency may conflict with privacy or security.
+
+Rapid intervention may conflict with ordinary review procedures.
+
+Autonomy may conflict with accountability or control.
+
+Such conflicts should not be resolved by silently treating one principle
+as absolute.
+
+They should be handled through the applicable governance, escalation,
+and arbitration mechanisms.
+
+---
+
+## Final Principle
+
+Culture Key does not define responsible AI as the absence of visible harm.
+
+It asks whether the system remains:
+
+**human-preserving, legitimately governed, accountable, contestable,
+and capable of correction as it changes.**
+
+---
+
