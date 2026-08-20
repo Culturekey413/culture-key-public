@@ -56,11 +56,14 @@ components.
                  └─────────┬─────────┘
                            │
                            ▼
-                    UPDATED STATE
+                     UPDATED STATE
                            │
-                           └──────────────new evidence /changed context /drift / failure
-
-      ACCOUNTABILITY & TRACEABILITY APPLY ACROSS THE ENTIRE CYCLE
+                           └──────────────► RISK / EVIDENCE INPUT
+                                              ▲
+                                              │
+                               new evidence / changed context /
+                                      drift / failure
+   ACCOUNTABILITY & TRACEABILITY APPLY ACROSS THE ENTIRE CYCLE
 
 ```
 
@@ -167,8 +170,7 @@ functions such as:
 - monitoring
 - recovery
 
-Culture Key reference agents such as Aequitas, Lychnia, Magna,
-or PosterKit illustrate one possible architecture.
+Specific agents or components may illustrate one possible implementation.
 
 They are not required components of the framework.
 
