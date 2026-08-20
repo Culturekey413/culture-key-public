@@ -62,6 +62,17 @@ Culture Key separates governance into distinct but interacting functions:
 These functions should not be collapsed into a single model, agent,
 decision-maker, or oversight mechanism.
 
+Culture Key does not claim these governance functions as novel in isolation.
+
+Its contribution is to examine whether they remain operationally credible
+as an interacting governance system — particularly as technical capability,
+autonomy, complexity, and real-world impact increase.
+
+The question is therefore not only whether governance mechanisms exist,
+but whether authority can become meaningful action, intervention can occur
+in time, recovery remains possible, conflict can be legitimately resolved,
+and decisions can be reviewed and corrected as evidence changes.
+
 [Read the canonical Framework Map →](./docs/framework_map.md)
 
 ---
@@ -157,20 +168,6 @@ For a structured introduction to Culture Key:
 
 ---
 
-## Reference Implementations
-
-Culture Key may be explored through specific agents, interaction patterns,
-state models, orchestration structures, or technical components.
-
-These demonstrate possible ways to operationalize parts of the framework.
-
-They are **reference implementations, not universal requirements**.
-
-The governance architecture should remain valid when the underlying
-technical implementation changes.
-
----
-
 ## Public Repository Boundary
 
 This repository contains public structural, conceptual, and governance
@@ -181,7 +178,6 @@ It may include:
 - governance architecture
 - foundational principles
 - specialized frameworks
-- high-level state and interaction models
 - risk and failure-mode analysis
 - security and governance-integrity material
 - practical governance applications
