@@ -21,7 +21,7 @@ Versioning applies to governance-relevant changes including:
 - ethical principles and protected constraints
 - governance rules and decision boundaries
 - authority structures and mandates
-- Ethical State Machine logic
+- state and decision logic 
 - risk models and materiality criteria
 - intervention, stop, rollback, and recovery mechanisms
 - escalation and arbitration paths
@@ -68,7 +68,7 @@ A change is material when it may alter:
 - intervention or stop authority
 - escalation or arbitration paths
 - accountability or review rights
-- state-transition logic
+- governance state or decision logic
 - risk classification or materiality criteria
 - consent, privacy, or protection boundaries
 - rollback, recovery, or revalidation requirements
