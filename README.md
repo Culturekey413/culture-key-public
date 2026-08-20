@@ -1,169 +1,207 @@
-# 🌑 Culture Key — Public Overview
+# Culture Key — Public Overview
 
-*A human-first AI governance framework for preserving human agency,
-accountability, and meaningful oversight in AI systems.*
+*A human-governance framework for AI systems.*
 
-Culture Key explores how governance can be designed into AI systems —
-not only as principles, but as observable structures for authority,
-intervention, arbitration, and decision traceability.
+Culture Key provides a governance structure for preserving human agency,
+legitimate authority, accountability, intervention capacity, and meaningful
+oversight as AI systems increase in capability, autonomy, complexity, or
+real-world impact.
+
+Its purpose is not to prescribe a specific AI architecture.
+
+It defines governance conditions that should remain meaningful across
+different models, agents, orchestration patterns, and technical
+implementations.
 
 ---
-
 
 ## Why Culture Key exists
 
-AI systems are scaling faster than the governance structures meant to contain them.
+AI capability can evolve faster than the governance structures responsible
+for supervising its use.
 
-The real bottleneck is no longer model capability —  
-it is whether systems can scale without structural, ethical, and operational risk.
+The resulting gap is not only a technical or safety problem.
 
-Culture Key addresses the gap between AI capability and meaningful human governance.
----
+It is a governance problem:
 
-## What Culture Key is
+- Who holds legitimate authority?
+- Who can intervene?
+- How quickly can operation be restricted or stopped?
+- What happens when legitimate principles conflict?
+- Can a system recover safely after intervention?
+- Can consequential decisions be reconstructed and reviewed?
+- Can governance itself adapt when evidence shows that its assumptions
+  no longer hold?
 
+Culture Key is designed around this gap.
 
-Culture Key is a human-first AI governance ecosystem designed to help teams:
-
-- scale AI systems responsibly  
-- contain structural and behavioral risk early  
-- maintain human oversight under real-world pressure  
-- avoid late-stage governance retrofits  
-
-It functions as an evolving governance framework that connects human-first principles with observable structures for authority, intervention, accountability, and decision-making.
-
-Culture Key defines not only governance principles,  
-but also structured system behavior through:
-
-- agent-based roles (architecture)
-- interaction flow (decision pathways)
-- ethical state transitions
-- decision traceability
-
-This allows governance to be observed, not only defined.
----
-
-## Where Culture Key operates
-
-Culture Key is not tied to a single stage of the AI lifecycle.
-
-It is designed as an evolving human-first governance framework for
-examining how authority, accountability, human agency, intervention,
-and decision integrity are preserved as AI systems change.
-
-Different Culture Key frameworks and tools may address different
-governance conditions across the AI lifecycle.
-
-The current operational entry point focuses on **pre-scale governance**,
-where structural decisions are still malleable and early intervention
-can prevent governance failures from becoming embedded at scale.
+**Increasing technical capability should not exceed the demonstrated
+capacity for meaningful governance.**
 
 ---
 
-## 🔰 Current Operational Entry Point: Pre-Scale Governance
+## Core Governance Architecture
 
-One current application of Culture Key focuses on a critical transition:
-the point before AI systems move into wider real-world deployment.
+Culture Key separates governance into distinct but interacting functions:
 
-At this stage, governance decisions are still malleable and structural
-correction remains possible.
+- **Authority** — who may make, authorize, review, restrict, or stop
+  governance-relevant actions
+- **Accountability** — how responsibility remains attributable across
+  human and technical actors
+- **Risk** — how conditions requiring governance attention are identified
+  without allowing detection alone to determine the response
+- **State and Decision Logic** — how evidence and governance decisions
+  change operational state
+- **Intervention and Recovery** — how systems can be restricted, paused,
+  contained, rolled back, stopped, recovered, and revalidated
+- **Arbitration** — how consequential conflicts between legitimate
+  principles or authorities are resolved
+- **Traceability and Review** — how decisions, evidence, authority, and
+  outcomes remain reconstructable and open to correction
 
-### Pre-Scale Readiness Signal
+These functions should not be collapsed into a single model, agent,
+decision-maker, or oversight mechanism.
 
-AI systems rarely fail because of the model.  
-They fail because governance breaks under scale.
+[Read the canonical Framework Map →](./docs/framework_map.md)
 
-**Culture Key is designed to detect that failure point early.**
+---
 
-### 🔎 Pre-Scale Governance Audit
+## Governance Is a Cycle
 
-For teams approaching scale and questioning their readiness:
+Culture Key does not treat governance as a one-way approval pipeline.
 
-- identify structural risks before deployment
-- examine authority, intervention, rollback, and oversight
-- evaluate whether governance is ready for wider deployment
+New evidence, changed context, system drift, intervention outcomes, or
+review may require earlier decisions to be reconsidered.
 
-[Start the Pre-Scale Governance Audit →](./docs/prescale_audit.md)
+Governance therefore includes the capacity to:
 
-### The Right to Stop
+**detect → decide → intervene → recover → review → revalidate**
 
-A governance framework for pre-scale AI systems.
+with accountability and traceability across the cycle, and arbitration
+available when ordinary governance cannot resolve legitimate conflict.
 
-> AI doesn’t need to be smarter.  
-> It needs to be stoppable.
+The objective is not irreversible decision-making.
 
-**Core Dimensions**
+It is legitimate, evidence-sensitive correction.
 
-- Authority — Who can say stop?
-- Veto Velocity — How fast can it stop?
-- Rollback Integrity — Can we go back safely?
-- Arbitration Layer — Who decides when principles conflict?
+---
 
-[Read The Right to Stop →](./frameworks/STOP_Framework_v1.md)
+## Specialized Framework: STOP
+
+The **STOP Framework** examines governance readiness before deployment,
+major capability expansion, or increased real-world impact.
+
+It focuses on four operational capabilities:
+
+1. **Authority** — Who can say stop?
+2. **Veto Velocity** — How quickly can intervention become effective?
+3. **Rollback Integrity** — Can the system return to a legitimate,
+   recoverable state?
+4. **Arbitration** — Who resolves consequential conflicts when ordinary
+   governance is insufficient?
+
+STOP does not replace the Culture Key core.
+
+It applies selected parts of the core architecture to a specific governance
+condition: whether intervention and recovery remain operationally credible
+before system impact increases.
+
+[Read the STOP Framework →](./frameworks/STOP_Framework_v1.md)
+
+---
+
+## Current Practical Application: Pre-Scale Governance
+
+The current operational entry point for Culture Key is **pre-scale
+governance**: the period before wider deployment or increased system impact,
+while structural correction remains comparatively possible.
+
+### Pre-Scale Governance Audit
+
+The audit examines governance readiness rather than model performance alone.
+
+It can be used to identify gaps involving:
+
+- decision authority
+- intervention capability
+- escalation
+- rollback and recovery
+- accountability
+- consent and boundaries
+- traceability
+
+[Start with the Pre-Scale Governance Audit →](./docs/prescale_audit.md)
+
+[See a Pre-Scale Example →](./docs/prescale_example.md)
+
+---
 
 ## Start Here
 
-1. 🛡️ [Read Governance Model](./ethics/human_governance_first.md)  
-2. ⚙️ [See Ethical State Machine](./ethics/ethical_state_machine_high_level.md)  
-3. 🧠 [Review Agent Architecture](./architecture/agent_roles.md)  
-4. 🔐 [Explore Security Model](./security/security_model.md)
-5. 📘 [Example Prescale Application](./docs/prescale_example.md)
+For a structured introduction to Culture Key:
 
-   
+1. [Framework Map →](./docs/framework_map.md)  
+   Canonical overview of the governance architecture.
 
+2. [Human Governance First →](./ethics/human_governance_first.md)  
+   Foundational principle for meaningful human authority and oversight.
 
-   
+3. [Security Model →](./security/security_model.md)  
+   Security and governance-integrity considerations.
 
+4. [STOP Framework →](./frameworks/STOP_Framework_v1.md)  
+   Specialized framework for intervention and pre-scale readiness.
 
-
-   
-
----
-
-## What this public repo contains
-
-This repository provides **structural and conceptual material only**.
-
-It includes:
-
-- governance architecture  
-- ethical state model (high-level)  
-- risk framing  
-- system design patterns  
-
-It **does not** expose sensitive implementation or operational details.
+5. [Pre-Scale Governance Audit →](./docs/prescale_audit.md)  
+   Practical application of the framework to systems approaching scale.
 
 ---
 
-## Core design principles
+## Reference Implementations
 
-Culture Key systems are built to:
+Culture Key may be explored through specific agents, interaction patterns,
+state models, orchestration structures, or technical components.
 
-- operate with explicit human governance  
-- preserve user autonomy and consent  
-- surface risk before failure  
-- remain inspectable, accountable, and traceable by design  
-- support creative and high-agency use cases safely
-  
+These demonstrate possible ways to operationalize parts of the framework.
 
-## Intended audience
+They are **reference implementations, not universal requirements**.
 
-Culture Key is designed for:
-
-- AI teams approaching scale  
-- responsible AI leads  
-- AI governance and safety teams  
-- founders building high-agency AI systems  
+The governance architecture should remain valid when the underlying
+technical implementation changes.
 
 ---
 
+## Public Repository Boundary
 
+This repository contains public structural, conceptual, and governance
+material.
 
-## Additional Documents
+It may include:
 
-- [Limitations →](./LIMITATIONS.md)
-- [Public Scope →](./public_boundaries.md)
-  
+- governance architecture
+- foundational principles
+- specialized frameworks
+- high-level state and interaction models
+- risk and failure-mode analysis
+- security and governance-integrity material
+- practical governance applications
+
+Sensitive implementation details and internal governance material are not
+part of this public repository.
+
+[Read Public Scope →](./public_boundaries.md)
+
+[Read Limitations →](./LIMITATIONS.md)
+
+---
+
 ## Status
-🧭 Human-first AI governance framework — evolving  
-🔒 Sensitive components remain in private repositories
+
+**Culture Key is an evolving human-governance framework.**
+
+Its architecture is expected to remain open to revision when evidence,
+implementation experience, or governance failure reveals that an assumption
+no longer holds.
+
+The framework is designed to govern changing systems without treating its
+own current form as beyond review.
