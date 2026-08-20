@@ -2,7 +2,7 @@
 
 ## Overview
 
-Culture Key is a human-centered AI governance framework designed to preserve
+Culture Key is a human-governance framework for AI systems designed to preserve
 governability across the AI lifecycle.
 
 It defines governance functions, authority boundaries, risk controls,
@@ -12,8 +12,6 @@ through different technical architectures.
 Culture Key does not require specific agents, models, or orchestration
 components.
 
-Named agents used in Culture Key reference implementations represent one
-possible implementation of these governance functions.
 
 ---
 
@@ -60,10 +58,7 @@ possible implementation of these governance functions.
                            ▼
                     UPDATED STATE
                            │
-                           └──────────────►
-                              new evidence /
-                              changed context /
-                              drift / failure
+                           └──────────────new evidence /changed context /drift / failure
 
       ACCOUNTABILITY & TRACEABILITY APPLY ACROSS THE ENTIRE CYCLE
 
