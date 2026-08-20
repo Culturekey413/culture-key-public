@@ -45,7 +45,7 @@ Inputs may be evaluated for conditions including:
 Detection of such a condition does not automatically determine the response.
 
 Evaluation and resulting action must follow the applicable governance rules,
-authority boundaries, and Ethical State Machine.
+authority boundaries, and applicable state and decision logic.
 
 ---
 
@@ -79,7 +79,7 @@ a governance violation.
 Input / Output Contracts do not define a separate response-state system.
 
 Governance-relevant interaction states and transitions are handled through
-the Ethical State Machine.
+the applicable state and decision logic.
 
 The contract defines what the interface must preserve while those
 mechanisms operate:
