@@ -1,61 +1,93 @@
-# 🧭 Culture Key — Ethics Architecture
+# 🧭 Culture Key — Governance Foundations
 
-Culture Key is a governance framework designed to help AI systems
-approach scale safely.
+This folder contains foundational governance principles, models, protocols,
+and operational resources used within the Culture Key framework.
 
-The **Ethics Architecture** defines the human-centered governance layer
-that constrains system behavior and ensures accountability.
+These documents do not constitute a separate governance architecture.
 
-This folder defines the ethical governance layer of Culture Key.
-
-It treats ethics as **system infrastructure**, not as an afterthought.
+They support the Culture Key Core Governance Architecture by making key
+governance functions more explicit, reviewable, and operationally usable.
 
 ---
 
-## 📦 Scope
+## 📦 Governance Resources
 
-This layer defines the ethical infrastructure of the Culture Key framework.
+### Foundations
 
-It includes:
+- **Principles** — foundational governance commitments
+- **Human Governance First** — legitimate human authority, review, and correction
+- **Consent Protocol** — consent, permission, autonomy, and authority boundaries
 
-- **Principles** — foundational ethical commitments
-- **Consent Protocol** — permission and user autonomy safeguards
-- **Risk Model** — structural awareness of system risk
-- **Accountability Model** — traceable responsibility mapping
-- **Human Governance Layer** — human authority over critical decisions
-- **Ethical State Machine** — rule-based ethical decision logic 
+### Governance Models
 
----
+- **Risk Model** — structured evaluation of governance-relevant risk
+- **Accountability Model** — responsibility, authority, review, and outcome ownership
+- **System Safety** — intervention, stop capability, recovery, and revalidation
 
-## 🏗 Architecture Components
+### Operational Governance
 
-Operational mechanisms supporting ethical governance:
-- Human Governance Layer  
-- Ethical State Machine  
-- Input / Output Contracts  
-- Metrics & Monitoring  
-- Versioning Policy  
-- Onboarding / Offboarding Controls  
-- Failure Modes & Safeguards  
+- **Input / Output Contracts** — governance boundaries for system interactions
+- **Metrics** — governance signals, monitoring, and measurement limits
+- **Failure Modes** — ways governance mechanisms may fail
+- **Versioning Policy** — governance-relevant change control and revalidation
+- **Decision Trace Template** — reconstructable records of consequential governance decisions
 
 ---
 
-## 🧾 Decision Logs
+## 🔗 Relationship to the Core Architecture
 
-Ethical decision records are maintained in: [decision logs](./decision_logs)
+The Culture Key Core Governance Architecture defines interacting governance
+functions including:
 
-These logs document high-risk decisions, governance interventions,
-and contested cases to preserve traceability.
+- governance context
+- authority and accountability
+- risk and evidence evaluation
+- state and decision logic
+- authorized action
+- intervention and recovery
+- escalation
+- arbitration
+- review and revalidation
+- traceability
+
+The resources in this folder develop selected parts of that architecture in
+greater detail.
+
+They should not be interpreted as independent layers or as mandatory
+technical components.
+
+Implementations may use different technical structures provided that the
+relevant governance functions remain legitimate, effective, traceable,
+and reviewable.
 
 ---
 
 ## 🧠 Design Principle
 
-**Culture Key treats ethics as infrastructure — not an afterthought.**
+Culture Key treats governance as operational infrastructure.
+
+Principles matter only if they can remain meaningful under real conditions
+of uncertainty, scale, conflict, failure, and change.
+
+Governance therefore requires more than stated values.
+
+It requires legitimate authority, accountable decisions, meaningful
+intervention, traceability, review, and the capacity for correction.
 
 ---
 
+## Public Scope
 
-**Architecture Version:** v1  
-**Layer:** Public Ethics Architecture  
+These documents describe public governance concepts and structures.
+
+Implementation-specific thresholds, enforcement logic, sensitive controls,
+or security-relevant mechanisms may remain private where disclosure would
+create misuse or operational risk.
+
+The public framework defines governance requirements without prescribing
+a single technical implementation.
+
+---
+
+**Role:** Foundational Governance Resources  
 **Status:** Active
