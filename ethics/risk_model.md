@@ -280,25 +280,22 @@ of structural risk.
 
 ---
 
-## Relationship to Other Governance Layers
+## Relationship to the Core Governance Architecture
 
-The Risk Model identifies and structures governance-relevant risk.
+The Risk Model supports the risk and evidence evaluation function
+within the Culture Key Core Governance Architecture.
 
-The Ethical State Machine governs behavioral state and state transitions.
+It does not determine governance outcomes on its own.
 
-The Human Governance Layer defines human governance authority and
-intervention boundaries.
+Risk signals and materiality assessments inform state and decision logic,
+but resulting actions must remain subject to legitimate authority,
+accountability, intervention boundaries, escalation, arbitration,
+traceability, and revalidation where applicable.
 
-The Accountability Model defines responsibility, ownership, review,
-and resolution roles.
+The Risk Model therefore provides structured governance evidence.
 
-Input / Output Contracts govern the system's interaction boundaries.
+It is not a standalone decision authority.
 
-Arbitration provides a resolution path for serious governance conflicts
-that ordinary review or escalation cannot legitimately resolve.
-
-These layers interact but should not be collapsed into a single
-risk-scoring or decision mechanism.
 
 ---
 
