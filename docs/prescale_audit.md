@@ -1,110 +1,166 @@
 # 🧭 Culture Key — Pre-Scale Governance Audit
 
-**Identify structural AI risks before they become production failures at scale.**
+**Identify governance weaknesses before increased capability or impact makes
+them harder to correct.**
 
-The assessment examines three structural layers:
-decision authority, intervention capability, and operational boundaries,
-mapping how governance holds under scale pressure.
+The Culture Key Pre-Scale Governance Audit examines whether the governance
+structures surrounding an AI system remain operationally credible before
+wider deployment, major capability expansion, or increased real-world impact.
 
-Culture Key provides a human-first prescale governance check designed for teams building AI systems approaching real-world deployment.
+The focus is governance readiness — not model performance or a declaration
+of overall system safety.
 
 ---
 
 ## 🔰 What This Is
 
-A structured prescale review that helps organizations detect governance and safety gaps **before high-risk scale exposure**.
+A structured governance review for AI systems approaching a consequential
+change in scale, capability, autonomy, or real-world impact.
 
-The focus is governance readiness — **not model performance**.
+The audit asks whether meaningful governance can still operate when the
+system is placed under greater operational pressure.
+
+Its central question is:
+
+**Are we structurally governable before we scale?**
 
 ---
 
 ## 🎯 What We Examine
 
-The Pre-Scale Structural Check maps critical risk surfaces such as:
+Depending on the system and context, the audit may examine:
 
-- authority gaps  
-- escalation latency  
-- rollback exposure  
-- decision integrity risks  
-- human oversight coverage  
-- consent and boundary clarity  
+- authority and accountability boundaries
+- risk and evidence evaluation
+- state and decision logic
+- escalation paths
+- intervention and stop capability
+- rollback and recovery readiness
+- arbitration for unresolved governance conflict
+- consent and operational boundaries
+- decision traceability
+- revalidation requirements
+- governance drift exposure
 
-> Governance capacity often becomes the hidden bottleneck at scale.
+The purpose is not to require identical controls for every system.
+
+It is to determine whether the governance functions relevant to that system
+are defined, legitimate, and operationally credible.
 
 ---
 
 ## 🧪 When Teams Use Culture Key
 
-Most valuable when:
+A Pre-Scale Governance Audit may be useful when:
 
-- AI capabilities are accelerating  
-- guardrails are still evolving  
-- teams are preparing for wider deployment  
-- leadership begins asking:
+- AI capabilities are expanding
+- autonomy or system complexity is increasing
+- guardrails or governance processes are still evolving
+- deployment is moving beyond a limited pilot
+- the number or consequence of affected users is increasing
+- new integrations materially change system behavior or authority
+- leadership needs evidence about governance readiness before expansion
 
-**“Are we structurally safe to scale this system?”**
+Scale is not treated only as user volume.
+
+A material increase in capability, autonomy, integration, authority, or
+consequence may also create a pre-scale governance threshold.
 
 ---
 
-## 🛠 What Organizations Receive
+## 🛠 What the Audit Produces
 
-Depending on scope:
+Depending on scope, outputs may include:
 
-- Prescale risk snapshot  
-- Governance gap identification  
-- Human oversight review  
-- Escalation path analysis  
-- Targeted governance recommendations  
+- governance readiness snapshot
+- identified authority or accountability gaps
+- escalation and intervention analysis
+- rollback and recovery findings
+- traceability gaps
+- unresolved governance conflicts
+- revalidation requirements
+- targeted governance recommendations
 
-This is **not a compliance checkbox** —  
-it is an early structural signal.
+The audit is not a compliance certification or a guarantee of safety.
+
+It is a structured governance signal intended to support better decisions
+before increased system impact reduces the room for correction.
+
+---
+
+## 🔁 Audit Process
+
+A typical audit may include:
+
+1. **Context definition**  
+   Identify the system, intended change, operating environment, and relevant
+   governance boundaries.
+
+2. **Governance mapping**  
+   Map the authority, accountability, risk, decision, intervention, recovery,
+   arbitration, and traceability functions relevant to the system.
+
+3. **Evidence review**  
+   Examine available evidence about whether those functions operate as
+   intended.
+
+4. **Gap analysis**  
+   Identify missing, ambiguous, conflicting, or operationally weak governance
+   structures.
+
+5. **Findings and recommendations**  
+   Document material findings, unresolved questions, and recommended
+   governance actions.
+
+6. **Revalidation where required**  
+   Material corrections should be reviewed before the system proceeds into
+   the changed operating condition.
 
 ---
 
 ## 👥 Who This Is For
 
-- AI startups approaching scale  
-- product teams integrating LLM systems  
-- responsible AI leads  
-- safety & governance teams  
-- founders building high-agency AI systems  
+The audit may be relevant to:
+
+- AI startups approaching wider deployment
+- product teams integrating AI or LLM systems
+- responsible AI and governance teams
+- safety teams
+- organizations deploying high-agency or multi-component AI systems
+- decision-makers responsible for approving consequential AI expansion
 
 ---
 
-## 🔒 Public vs Private Scope
+## 🔒 Public and Engagement Scope
 
-**Public repository includes:**
+### Public repository
 
-- framework principles  
-- high-level methodology  
-- governance architecture  
-- risk surface categories  
+The public Culture Key repository contains:
 
-**Client engagements include:**
+- governance architecture
+- foundational principles
+- specialized frameworks
+- high-level methodology
+- public examples and governance concepts
 
-- detailed diagnostics  
-- internal assessment logic  
-- governance scoring framework  
-- tailored risk findings  
+### Applied engagements
 
----
-## 🔁 What Happens Next
+A scoped governance review may involve:
 
-The audit process is lightweight and adaptive:
+- system-specific governance mapping
+- evidence review
+- internal diagnostics
+- governance gap analysis
+- tailored findings and recommendations
 
-1. Initial contact and context sharing  
-2. System overview (architecture, use case, risk exposure)  
-3. Structured evaluation across governance layers  
-4. Delivery of findings and recommendations  
+The level of access required depends on the scope of the audit.
 
-No internal systems or sensitive data are required at the first stage.
-
-## ✉️ Collaboration
-For teams interested in running a Pre-Scale Governance Audit:
-
-**culturekeylychnia@gmail.com**
+Sensitive system information should not be requested or collected unless it
+is necessary for the defined governance question.
 
 ---
 
-**Culture Key**  
-*Human-first governance for systems that must scale safely.*
+## Principle
+
+**Increasing technical capability should not exceed the demonstrated
+capacity for meaningful governance.**
