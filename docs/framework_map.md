@@ -339,7 +339,7 @@ They are not universal requirements of Culture Key.
 The governance architecture should remain valid when the underlying
 technical implementation changes.
 
-### Framework Boundary
+## Framework Boundary
 
 Culture Key does not attempt to determine every correct decision in advance.
 
@@ -358,7 +358,7 @@ The framework should itself remain open to revision when evidence,
 implementation experience, or governance failure reveals that one of its
 assumptions no longer holds.
 
-### Core Principle
+## Core Principle
 
 **Increasing technical capability should not exceed the demonstrated
 capacity for meaningful governance.**
