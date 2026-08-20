@@ -19,49 +19,10 @@ possible implementation of these governance functions.
 
 ## Core Governance Architecture
 
-```text
-
-                    Governance Principles
-                           │
-                           ▼
-                Authority & Accountability
-                           │
-                           ▼
-                Governance Decision Layer
-            ┌──────────────┼──────────────┐
-            │              │              │
-            ▼              ▼              ▼
-      Risk Evaluation   State Logic   Interaction
-                                     Boundaries
-            │              │              │
-            └──────────────┼──────────────┘
-                           ▼
-                 Authorized System Action
-                           │
-          ┌────────────────┼────────────────┐
-          │                │                │
-          ▼                ▼                ▼
-       Continue         Restrict         Escalate
-                         / Stop
-          │                │                │
-          └────────────────┼────────────────┘
-                           ▼
-                   Evidence & Traceability
-                           │
-                           ▼
-              Monitoring / Drift Detection
-                           │
-          ┌────────────────┼────────────────┐
-          │                │                │
-          ▼                ▼                ▼
-        Review          Recovery        Revalidation
-                           │
-                           ▼
-                   Governance Baseline
 
 
-```
-
+      
+      
 ### Authority Boundaries
 
 Detection, evaluation, decision authority, intervention authority,
@@ -69,11 +30,59 @@ and accountability are distinct governance functions.
 
 They should not be assumed to belong to the same actor or mechanism.
 
-When a decision exceeds the mandate of the current actor or process,
+
+```text
+When a decision exceeds the manda                    GOVERNANCE CONTEXT
+                           │
+                           ▼
+              AUTHORITY & ACCOUNTABILITY
+                           │
+                           ▼
+                 RISK / EVIDENCE INPUT
+                           │
+                           ▼
+                STATE & DECISION LOGIC
+                           │
+                           ▼
+               AUTHORIZED SYSTEM ACTION
+                           │
+             ┌─────────────┼─────────────┐
+             ▼             ▼             ▼
+          CONTINUE      RESTRICT       ESCALATE
+                         / STOP
+             │             │             │
+             └─────────────┼─────────────┘
+                           ▼
+              INTERVENTION & RECOVERY
+                           │
+                           ▼
+                  REVIEW / REVALIDATE
+                           │
+                 ┌─────────┴─────────┐
+                 │                   │
+                 ▼                   ▼```
+          GOVERNANCE HOLDS      CONFLICT REMAINS
+                 │                   │
+                 │                   ▼
+                 │              ARBITRATION
+                 │                   │
+                 └─────────┬─────────┘
+                           │
+                           ▼
+                    UPDATED STATE
+                           │
+                           └──────────────►
+                              new evidence /
+                              changed context /
+                              drift / failure
+
+  ACCOUNTABILITY & TRACEABILITY APPLY ACROSS THE ENTIRE CYCLEte of the current actor or process,
 the case follows a predefined escalation path.
 
 Where ordinary escalation cannot legitimately resolve a serious governance
 conflict, arbitration may be required.
+
+```
 
 ## Lifecycle Application
 
