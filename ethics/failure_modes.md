@@ -4,13 +4,10 @@ This document describes high-level governance failure modes that may arise
 when an AI system, its authority structure, or its safety mechanisms no longer
 operate as intended.
 
-Failure modes are not the same as system states.
-
-The Ethical State Machine represents behavioral state.
-The Risk Model identifies structural risk.
-System Safety defines intervention, recovery, and revalidation.
+Failure modes are not the same as system states or risk classifications.
 
 This document focuses on how governance itself can fail.
+
 
 ---
 
