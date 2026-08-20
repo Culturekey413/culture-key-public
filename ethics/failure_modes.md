@@ -248,10 +248,10 @@ and reversibility of the failure.
 
 Depending on context, response may include:
 
-- REVIEW
+- review
 - restriction
-- BLOCKED action
-- ESCALATE
+- blocking an action where authorized
+- escalation
 - intervention or stop
 - rollback
 - governance review
