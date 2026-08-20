@@ -21,44 +21,51 @@ possible implementation of these governance functions.
 
 ```text
 
-                    Governance Principles
+                 GOVERNANCE CONTEXT
                            │
                            ▼
-                Authority & Accountability
+              AUTHORITY & ACCOUNTABILITY
                            │
                            ▼
-                Governance Decision Layer
-            ┌──────────────┼──────────────┐
-            │              │              │
-            ▼              ▼              ▼
-      Risk Evaluation   State Logic   Interaction
-                                     Boundaries
-            │              │              │
-            └──────────────┼──────────────┘
-                           ▼
-                 Authorized System Action
-                           │
-          ┌────────────────┼────────────────┐
-          │                │                │
-          ▼                ▼                ▼
-       Continue         Restrict         Escalate
-                         / Stop
-          │                │                │
-          └────────────────┼────────────────┘
-                           ▼
-                   Evidence & Traceability
+                 RISK / EVIDENCE INPUT
                            │
                            ▼
-              Monitoring / Drift Detection
-                           │
-          ┌────────────────┼────────────────┐
-          │                │                │
-          ▼                ▼                ▼
-        Review          Recovery        Revalidation
+                STATE & DECISION LOGIC
                            │
                            ▼
-                   Governance Baseline
+               AUTHORIZED SYSTEM ACTION
+                           │
+             ┌─────────────┼─────────────┐
+             ▼             ▼             ▼
+          CONTINUE      RESTRICT       ESCALATE
+                         / STOP
+             │             │             │
+             └─────────────┼─────────────┘
+                           ▼
+              INTERVENTION & RECOVERY
+                           │
+                           ▼
+                  REVIEW / REVALIDATE
+                           │
+                 ┌─────────┴─────────┐
+                 │                   │
+                 ▼                   ▼
+          GOVERNANCE HOLDS      CONFLICT REMAINS
+                 │                   │
+                 │                   ▼
+                 │              ARBITRATION
+                 │                   │
+                 └─────────┬─────────┘
+                           │
+                           ▼
+                    UPDATED STATE
+                           │
+                           └──────────────►
+                              new evidence /
+                              changed context /
+                              drift / failure
 
+      ACCOUNTABILITY & TRACEABILITY APPLY ACROSS THE ENTIRE CYCLE
 
 ```
 
