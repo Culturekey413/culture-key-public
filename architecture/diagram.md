@@ -63,7 +63,8 @@ components.
                                               │
                                new evidence / changed context /
                                       drift / failure
-   ACCOUNTABILITY & TRACEABILITY APPLY ACROSS THE ENTIRE CYCLE
+
+ACCOUNTABILITY & TRACEABILITY APPLY ACROSS THE ENTIRE CYCLE
 
 ```
 
