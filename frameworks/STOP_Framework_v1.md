@@ -1,11 +1,9 @@
-# Culture Key
+# Culture Key — STOP Framework
 ## The Right to Stop
 
-A pre-scale governance framework for AI systems approaching real-world deployment.
-
-AI does not only need to be capable.
-
-It must remain governable when intervention becomes necessary.
+A specialized governance framework for evaluating intervention,
+recovery, and conflict-resolution readiness before deployment,
+major capability expansion, or increased real-world impact.
 
 ---
 
@@ -196,10 +194,10 @@ It draws on the Core Governance Architecture, including:
 - traceability
 - revalidation
 
-STOP does not replace these governance layers.
+STOP does not replace these governance functions.
 
-It tests whether critical parts of them are operationally credible before
-system impact increases.
+It tests whether selected parts of the core architecture are operationally
+credible before system impact increases.
 
 ---
 
