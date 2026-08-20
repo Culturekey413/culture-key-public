@@ -50,6 +50,9 @@ applicable authority requirements.
 A system should not be able to silently rewrite the constraints that govern
 its own authority.
 
+Protection against unauthorized change must not make governance
+rules immune to legitimate review, revision, or revalidation.
+
 ---
 
 ## Authority Security
@@ -85,8 +88,9 @@ Security monitoring may identify:
 
 Detection alone does not determine the response.
 
-Evaluation and intervention must follow the applicable Risk Model,
-Ethical State Machine, and authority structure.
+Evaluation and intervention must follow the applicable risk,
+state and decision logic, and legitimate authority structure.
+
 
 ---
 
