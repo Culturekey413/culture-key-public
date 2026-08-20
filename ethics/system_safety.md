@@ -5,8 +5,9 @@ under uncertainty, failure, change, and unexpected conditions.
 
 Safety is not defined only by whether harmful output is prevented.
 
-A safe system must also remain observable, interruptible, recoverable,
-and subject to legitimate authority when normal operating assumptions fail.
+A system intended to operate safely must also remain observable,
+interruptible, recoverable, and subject to legitimate authority
+when normal operating assumptions fail.
 
 ---
 
