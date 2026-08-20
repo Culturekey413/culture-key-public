@@ -62,11 +62,11 @@ the same actor.
 
 ## 4. State and Action
 
-**Previous State:**  
-[SAFE / REVIEW / BLOCKED / ESCALATE]
+**Previous Governance State / Condition:**  
+[Applicable implementation-defined state or operating condition]
 
-**Resulting State:**  
-[SAFE / REVIEW / BLOCKED / ESCALATE]
+**Resulting Governance State / Condition:**  
+[Applicable implementation-defined state or operating condition]
 
 **Transition Authorized By:**  
 [Authorized actor, mechanism, or governance role]
