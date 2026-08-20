@@ -204,12 +204,15 @@ The objective is therefore not to produce irreversible governance decisions.
 
 It is to preserve the capacity for legitimate, evidence-sensitive correction.
 
+---
+
+
 ## 4. Cross-Cutting Governance Mechanisms
 
 Some mechanisms support multiple parts of the core architecture rather than
 forming independent governance authorities.
 
-Input / Output Contracts
+### Input / Output Contracts
 
 Define operational boundaries between the governed system and its external
 environment.
@@ -217,14 +220,14 @@ environment.
 They help constrain interaction without treating users or other actors as
 fixed risk identities.
 
-Consent Protocol
+### Consent Protocol
 
 Operationalizes the foundational principle of consent.
 
 It defines how consent is requested, scoped, recorded, withdrawn, renewed,
 and distinguished from other legitimate authority.
 
-Metrics
+### Metrics
 
 Provide governance signals.
 
@@ -234,7 +237,7 @@ proof, authority, or judgment by themselves.
 Metrics must themselves remain open to review for drift, gaming, distortion,
 or loss of contextual validity.
 
-Failure Modes
+### Failure Modes
 
 Describe how governance itself may fail.
 
@@ -242,7 +245,7 @@ These include failures of detection, evaluation, authority, accountability,
 escalation, arbitration, intervention, recovery, change control, and other
 interacting governance functions.
 
-Security and Governance Integrity
+### Security and Governance Integrity
 
 Security protects both technical integrity and the integrity of governance.
 
@@ -257,7 +260,7 @@ This includes protection of:
 
 Security controls themselves remain subject to legitimate authority.
 
-## Change Control and Versioning
+### Change Control and Versioning
 
 Governance structures must be able to evolve without silent or
 unaccountable change.
@@ -265,12 +268,14 @@ unaccountable change.
 Material changes should be versioned, traceable, reviewable, and revalidated
 where their impact requires it.
 
+---
+
 ## 5. Specialized Frameworks
 
 Specialized frameworks apply selected parts of the Culture Key core to
 specific governance conditions.
 
-**STOP Framework**
+### STOP Framework 
 
 The STOP Framework evaluates governance readiness before deployment,
 major capability expansion, or increased real-world impact.
@@ -287,8 +292,12 @@ STOP does not replace the Culture Key core.
 It tests whether critical governance capabilities are operationally credible
 before system impact increases.
 
+---
+
+
 ## 6. Practical Application
-Pre-Scale Governance Audit
+
+### Pre-Scale Governance Audit
 
 The Pre-Scale Governance Audit applies Culture Key to real systems approaching
 deployment or increased scale.
@@ -307,6 +316,9 @@ The audit may identify gaps in areas such as:
 
 Practical assessment methods may evolve independently from the underlying
 governance architecture.
+
+---
+
 
 ## 7. Reference Implementations
 
@@ -327,7 +339,7 @@ They are not universal requirements of Culture Key.
 The governance architecture should remain valid when the underlying
 technical implementation changes.
 
-## Framework Boundary
+### Framework Boundary
 
 Culture Key does not attempt to determine every correct decision in advance.
 
@@ -346,7 +358,7 @@ The framework should itself remain open to revision when evidence,
 implementation experience, or governance failure reveals that one of its
 assumptions no longer holds.
 
-## Core Principle
+### Core Principle
 
 **Increasing technical capability should not exceed the demonstrated
 capacity for meaningful governance.**
