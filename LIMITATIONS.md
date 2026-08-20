@@ -1,6 +1,6 @@
 # ⚠️ Culture Key — Limitations (Public)
 
-Culture Key is a human-centered AI governance framework designed to support
+Culture Key is a human-governance framework for AI systems designed to support
 governability across the AI lifecycle.
 
 It provides governance structures, questions, controls, and decision
