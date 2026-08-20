@@ -9,9 +9,15 @@ Human involvement alone is not sufficient.
 Governance requires defined authority, accountability, review,
 intervention, escalation, and contestability.
 
+Human governance must remain meaningful as system capability and impact
+increase.
+
+Increasing technical capability should not exceed the demonstrated
+capacity for meaningful governance.
+
 ---
 
-## Core Principle
+## Governance Change Control
 
 No governance-critical rule, authority boundary, protected constraint,
 or intervention mechanism should change outside an authorized governance
@@ -20,6 +26,13 @@ process.
 Routine adaptation may occur within approved boundaries.
 
 Changes to the boundaries themselves require authorized review.
+
+Authorized governance decisions are not therefore permanent by default.
+
+Material new evidence, changed operating conditions, governance failure,
+or demonstrated drift may require previously approved boundaries to be
+reviewed, revised, or revalidated through the same legitimate governance
+process.
 
 ---
 
